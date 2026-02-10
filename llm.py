@@ -8,40 +8,59 @@ from dotenv import load_dotenv
 load_dotenv()
 
 SYSTEM_PROMPT = """You are an expert stage lighting designer for virtual concert experiences.
-Given a list of music beats (with timestamp and duration), you must assign light effects to create a visually stunning and musically coherent light show.
+You follow industry conventions used by professional lighting designers, visual directors, and pyro techs.
 
 # LIGHT GROUP TYPES
-- groupLightKey 0, 1 → VFX_GROUP: Special effects (fireworks, smoke, etc.)
-- groupLightKey 2, 3 → SINGLE_LIGHT_GROUP: Individual lights, flexible movement
-- groupLightKey 4, 5, 6 → MULTI_LIGHT_GROUP: Multiple lights, synchronized patterns
+- groupLightKey 0, 1 → VFX_GROUP: Special effects (fireworks, smoke, CO2, pyro)
+- groupLightKey 2, 3 → SINGLE_LIGHT_GROUP: Individual moving head lights
+- groupLightKey 4, 5, 6 → MULTI_LIGHT_GROUP: Synchronized beam arrays, lasers
 
 # EFFECT ENUMS
-
 MotionEffectType: 0=None, 1=LaserCone, 2=LaserFan, 3=Wave, 4=Rotate, 5=Circle_Rotate, 6=PingPong
 ColorEffectType: 0=None, 1=StaticColor, 2=RandomPerBeam, 3=PingPongColor
 IntensityEffectType: 0=None, 1=SpectrumBased, 2=PingPongIntensity, 3=AlternatingBeams, 4=WaveIntensity
 VfxEffectType: 0=None, 1=VFX_Simultaneous, 2=VFX_Wave
 
-# CONSTRAINTS (MUST follow)
+# HARD CONSTRAINTS (MUST enforce)
 1. VFX_GROUP (key 0,1): ONLY use VfxEffect (1 or 2). MotionEffect, ColorEffect, IntensityEffect MUST be 0.
 2. SINGLE_LIGHT_GROUP (key 2,3): Use Motion 3-6 (Wave, Rotate, Circle_Rotate, PingPong). VfxEffect MUST be 0.
 3. MULTI_LIGHT_GROUP (key 4,5,6): Use Motion 1-2 (LaserCone, LaserFan). VfxEffect MUST be 0.
-4. Value 0 in any field = effect is OFF.
+4. Value 0 = effect OFF.
 5. Light groups (key 2-6) should have ColorEffect and IntensityEffect set when MotionEffect is active.
 
-# ARTISTIC GUIDELINES
-- EVERY beat MUST have at least one groupLight with ACTIVE effects. NEVER leave a beat blank or with all-zero values.
-- Short beats (<1s): simpler effects, fewer groups (1-2 groups max)
-- Long beats (>3s): can use more groups, more complex combinations
-- Vary the effects — avoid repeating the same combination for consecutive beats.
-- Use VFX groups (key 0,1) sparingly for dramatic moments / accents.
-- Build intensity: start simpler, escalate over time, peak at climactic moments.
-- Create patterns: alternating between different light groups adds visual interest.
-- Low energy beats: use subtle effects like gentle Wave or soft StaticColor, NOT blank.
+# PROFESSIONAL LIGHTING RULES (follow these conventions)
+
+## Beat & Bar Rules
+- Sync on beat 1 (downbeat) = strongest moment. Use for dramatic changes.
+- Beat 1 & 3: strong (on-beat). Beat 2 & 4: lighter, build-up (off-beat/snare).
+- Follow 4-bar / 8-bar phrasing. Major changes at phrase boundaries.
+- Do NOT sync every single beat. Aim for 60-70% sync rate. Leave 30-40% without effects for breathing room.
+
+## Song Structure Awareness (use lyrics/energy cues to detect)
+- Intro: dark, subtle, cool colors. Build tension. No strobe.
+- Verse: gentle wash, warm/neutral colors. Support vocals, don't overwhelm.
+- Pre-chorus / Build-up: gradually increase intensity, add movement, speed up.
+- Drop / Chorus: FULL ON. Fast beams, VFX, bright/vivid colors. Peak energy.
+- Bridge / Breakdown: sudden contrast. Dark or spotlight only. Create rest.
+- Outro: fade intensity gradually. Return to calm.
+
+## Key Pitfalls to AVOID
+- NO strobe/flash on every beat → looks robotic, causes fatigue.
+- NO heavy VFX (pyro/CO2) on calm/ballad sections → destroys emotion.
+- NO constant max intensity → need contrast (light vs dark, fast vs slow).
+- Keep VFX for drops, beat 1, or key lyric moments ONLY. Never random.
+
+## Best Practices
+- "Less is more" at the start → build gradually, don't overwhelm from beat 1.
+- Contrast is key → alternate bright/dark, fast/slow, warm/cool colors.
+- Lasers sync with high-frequency melody lines.
+- Bass hits → Wave, Rotate (strong motion).
 
 # OUTPUT FORMAT
-Return ONLY a valid JSON object with key "effects" containing an array of groupLight objects.
-Each groupLight must have at least one non-zero effect value (MotionEffect, ColorEffect, IntensityEffect, or VfxEffect).
+Return ONLY a valid JSON object.
+If this beat should have effects: {"effects": [{...}, ...]}
+If this beat should NOT have effects (breathing room): {"effects": []}
+An empty array [] is valid and expected for ~30-40% of beats.
 
 Example: {"effects": [{"groupLightKey": 4, "MotionEffect": 1, "ColorEffect": 2, "IntensityEffect": 3, "VfxEffect": 0}]}
 
@@ -94,27 +113,61 @@ def build_single_beat_prompt(beat_idx, beats, audio_features=None, beat_lyrics=N
     # Target beat
     target = _build_beat_entry(beats[beat_idx], audio_features, beat_lyrics, beat_idx)
 
+    # Calculate time gaps and position info
+    time_prev = beats[beat_idx]["time"] - beats[beat_idx - 1]["time"] if beat_idx > 0 else 999
+    time_next = beats[beat_idx + 1]["time"] - beats[beat_idx]["time"] if beat_idx < total - 1 else 999
+    is_rapid = time_prev < 0.6 or time_next < 0.6
+
+    target["gap_prev"] = round(time_prev, 3)
+    target["gap_next"] = round(time_next, 3)
+    target["beat_position"] = f"{beat_idx + 1}/{total}"
+
+    # Estimate position in song (rough %)
+    pct = beat_idx / max(total - 1, 1) * 100
+    if pct < 10:
+        section_hint = "likely INTRO (build tension, subtle)"
+    elif pct < 30:
+        section_hint = "likely VERSE (support vocals, moderate)"
+    elif pct < 45:
+        section_hint = "likely PRE-CHORUS / BUILD-UP (rising intensity)"
+    elif pct < 65:
+        section_hint = "likely CHORUS / DROP (peak energy, go big)"
+    elif pct < 80:
+        section_hint = "likely VERSE 2 or BRIDGE (contrast, breathing room)"
+    elif pct < 90:
+        section_hint = "likely FINAL CHORUS (climax, full effects)"
+    else:
+        section_hint = "likely OUTRO (fading, calm down)"
+
     prompt = (
-        f"Predict light effects for beat {beat_idx + 1}/{total} in a song.\n\n"
-        f"Use the audio features to guide your choice:\n"
-        f"- HIGH energy → more groups, dramatic effects, VFX accents\n"
-        f"- LOW energy → subtle effects (gentle Wave, soft StaticColor)\n"
+        f"Predict light effects for beat {beat_idx + 1}/{total} in a song.\n"
+        f"Song position: ~{pct:.0f}% → {section_hint}\n\n"
+        f"Audio cues:\n"
+        f"- HIGH energy → dramatic effects, multiple groups, VFX on drops\n"
+        f"- LOW energy → empty [] or subtle wash. Do NOT force effects on calm moments.\n"
         f"- Bass-dominant → strong motion (Wave, Rotate)\n"
-        f"- High-dominant → sharp effects (LaserCone, LaserFan, PingPong)\n"
-        f"- Vocal (has lyrics) → complement with color/intensity\n"
-        f"- Instrumental (no lyrics) → more motion and VFX freedom\n"
-        f"- EVERY beat MUST have active effects. No blank beats.\n\n"
+        f"- High-dominant → lasers/beams (LaserCone, LaserFan, PingPong)\n"
+        f"- Has lyrics → color/intensity to support vocals, don't overwhelm\n"
+        f"- No lyrics → more freedom for motion and VFX\n\n"
+        f"Pro rules:\n"
+        f"- Sync ~60-70% of beats. The rest should be empty [] for breathing room.\n"
+        f"- VFX (key 0,1) ONLY on drops/climax/key moments. Never random.\n"
+        f"- Build gradually. Less at start, peak at chorus.\n"
     )
 
+    if is_rapid:
+        prompt += f"- RAPID FIRE: gap < 0.6s, keep same group as neighbors or use PingPong sequence.\n"
+
+    prompt += "\n"
+
     if ctx_before:
-        prompt += f"Previous beats (context): {json.dumps(ctx_before)}\n"
-    prompt += f">>> TARGET BEAT to predict: {json.dumps(target)} <<<\n"
+        prompt += f"Previous beats: {json.dumps(ctx_before)}\n"
+    prompt += f">>> TARGET: {json.dumps(target)} <<<\n"
     if ctx_after:
-        prompt += f"Next beats (context): {json.dumps(ctx_after)}\n"
+        prompt += f"Next beats: {json.dumps(ctx_after)}\n"
 
     prompt += (
-        f"\nReturn a JSON object: {{\"effects\": [...]}} with at least 1 groupLight with ACTIVE effects. "
-        f"Every groupLight must have at least one non-zero effect. NEVER return blank/empty."
+        f'\nReturn {{"effects": [...]}} with groupLight objects, or {{"effects": []}} if this beat should be silent.'
     )
     return prompt
 
