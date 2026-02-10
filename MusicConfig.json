@@ -1,0 +1,103 @@
+{
+  "configsInputs": [
+    {
+      "audioClipName": "YDSLOWMEP",
+      "sensitivity": 1.8,
+      "superFluxSensitivity": 6.0,
+      "minBeatInterval": 1.5,
+      "superFluxWeightLow": 3.0,
+      "superFluxWeightMid": 8.0,
+      "superFluxWeightHigh": 10.0
+    },
+    {
+      "audioClipName": "GiveItToMe",
+      "sensitivity": 2.2,
+      "superFluxSensitivity": 7.5,
+      "minBeatInterval": 1.2,
+      "superFluxWeightLow": 4.0,
+      "superFluxWeightMid": 9.0,
+      "superFluxWeightHigh": 12.0
+    },
+    {
+      "audioClipName": "NewThang",
+      "sensitivity": 1.4,
+      "superFluxSensitivity": 6.0,
+      "minBeatInterval": 0.8,
+      "superFluxWeightLow": 2.5,
+      "superFluxWeightMid": 6.0,
+      "superFluxWeightHigh": 7.5
+    },
+    {
+      "audioClipName": "ThatGirl",
+      "sensitivity": 1.4,
+      "superFluxSensitivity": 4.0,
+      "minBeatInterval": 1.5,
+      "superFluxWeightLow": 2.5,
+      "superFluxWeightMid": 6.0,
+      "superFluxWeightHigh": 7.5
+    },
+    {
+      "audioClipName": "Whistle",
+      "sensitivity": 1.4,
+      "superFluxSensitivity": 6.0,
+      "minBeatInterval": 0.4,
+      "superFluxWeightLow": 2.5,
+      "superFluxWeightMid": 6.0,
+      "superFluxWeightHigh": 7.5
+    },
+    {
+      "audioClipName": "24KMagic",
+      "sensitivity": 1.4,
+      "superFluxSensitivity": 6.0,
+      "minBeatInterval": 0.8,
+      "superFluxWeightLow": 2.5,
+      "superFluxWeightMid": 6.0,
+      "superFluxWeightHigh": 7.5
+    },
+    {
+      "audioClipName": "TurnDownforWhat",
+      "sensitivity": 1.4,
+      "superFluxSensitivity": 4.0,
+      "minBeatInterval": 0.8,
+      "superFluxWeightLow": 2.5,
+      "superFluxWeightMid": 6.0,
+      "superFluxWeightHigh": 7.5
+    },
+    {
+      "audioClipName": "WorthIt",
+      "sensitivity": 1.4,
+      "superFluxSensitivity": 4.0,
+      "minBeatInterval": 0.8,
+      "superFluxWeightLow": 2.5,
+      "superFluxWeightMid": 6.0,
+      "superFluxWeightHigh": 7.5
+    },
+    {
+      "audioClipName": "HallOfFame",
+      "sensitivity": 1.4,
+      "superFluxSensitivity": 6.0,
+      "minBeatInterval": 0.8,
+      "superFluxWeightLow": 2.5,
+      "superFluxWeightMid": 6.0,
+      "superFluxWeightHigh": 7.5
+    },
+    {
+      "audioClipName": "THEREONREMIX",
+      "sensitivity": 1.4,
+      "superFluxSensitivity": 4.0,
+      "minBeatInterval": 0.4,
+      "superFluxWeightLow": 2.5,
+      "superFluxWeightMid": 6.0,
+      "superFluxWeightHigh": 7.5
+    },
+    {
+      "audioClipName": "AnaBelen",
+      "sensitivity": 1.4,
+      "superFluxSensitivity": 4.0,
+      "minBeatInterval": 0.4,
+      "superFluxWeightLow": 2.5,
+      "superFluxWeightMid": 6.0,
+      "superFluxWeightHigh": 7.5
+    }
+  ]
+}

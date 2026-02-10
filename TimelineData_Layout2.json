@@ -1,0 +1,1772 @@
+{
+  "timelineSettings": [
+    {
+      "groupName": "SINGLE_LIGHT_GROUP_0",
+      "effectTriggerDatas": [],
+      "defaultSettings": [
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Wave",
+          "angleMin": {
+            "x": 43.70438,
+            "y": -10.30471,
+            "z": 0.0
+          },
+          "angleMax": {
+            "x": 25.9643555,
+            "y": -25.2686176,
+            "z": 0.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": 0.0,
+          "maxAngleX": 45.0,
+          "minAngleY": -45.0,
+          "maxAngleY": 45.0,
+          "minAngleZ": 0.0,
+          "maxAngleZ": 0.0,
+          "centerOutwardCycles": 1.5,
+          "centerOutwardPulseAtCenter": true,
+          "syncWaveWithTransition": true,
+          "customWaveCycleTime": 1.5,
+          "propagationMode": 1,
+          "usedRandomModeWave": false,
+          "transitionTime": 1.216
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Rotate",
+          "angleOrigin": {
+            "x": -39.7161179,
+            "y": 28.135849,
+            "z": 0.0
+          },
+          "angleTarget": {
+            "x": 56.61297,
+            "y": 21.0297432,
+            "z": 0.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -45.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -45.0,
+          "maxAngleY": 90.0,
+          "minAngleZ": 0.0,
+          "maxAngleZ": 0.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Circle_Rotate",
+          "angleOrigin": 101.279022,
+          "angleTarget": 97.6659546,
+          "randomAngle": true,
+          "minAngle": 150.0,
+          "maxAngle": 90.0,
+          "transitionTime": 0.23466666
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "PingPong",
+          "angleMin": {
+            "x": -13.4573822,
+            "y": 30.8032875,
+            "z": 23.0375881
+          },
+          "angleMax": {
+            "x": -19.6697617,
+            "y": 10.7084293,
+            "z": 22.3372
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": -45.0,
+          "maxAngleZ": 45.0,
+          "transitionTime": 0.23466666
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "LaserCone",
+          "ShapeType": 0,
+          "angleOrigin": {
+            "x": 90.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angleTarget": {
+            "x": 90.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "radius": 0.1,
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -90.0,
+          "maxAngleY": -90.0,
+          "minAngleZ": 0.0,
+          "maxAngleZ": 0.0,
+          "coneAngleOrigin": 0.0,
+          "coneAngleTarget": 0.0,
+          "randomConeAngleMode": true,
+          "minConeAngle": 0.0,
+          "maxConeAngle": 90.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "LaserFan",
+          "angleOrigin": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angleTarget": {
+            "x": 0.0,
+            "y": 180.0,
+            "z": 0.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -30.0,
+          "maxAngleX": 30.0,
+          "minAngleY": 0.0,
+          "maxAngleY": 360.0,
+          "minAngleZ": -30.0,
+          "maxAngleZ": 30.0,
+          "spreadAngleOrigin": 30.0,
+          "targetSpreadAngle": 60.0,
+          "randomSpreadAngleMode": true,
+          "minSpreadAngle": 20.0,
+          "maxSpreadAngle": 90.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "StaticColor",
+          "staticColor": {
+            "r": 0.0435304679,
+            "g": 0.251511723,
+            "b": 0.9674978,
+            "a": 1.0
+          },
+          "randomColor": true,
+          "transitionTime": 0.23466666
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "PingPongColor",
+          "startColor": {
+            "r": 0.9968653,
+            "g": 0.499497235,
+            "b": 0.494502962,
+            "a": 1.0
+          },
+          "endColor": {
+            "r": 0.471607268,
+            "g": 0.565187633,
+            "b": 0.7411234,
+            "a": 1.0
+          },
+          "randomColorMode": true,
+          "transitionTime": 0.23466666
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "RandomPerBeam",
+          "transitionTime": 1.216
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "SpectrumBased",
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "PingPongIntensity",
+          "pingPongSpeed": 2.0,
+          "minIntensity": 0.01,
+          "maxIntensity": 0.4,
+          "forwardDirection": true,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "AlternatingBeams",
+          "alternateSpeed": 1.5,
+          "brightIntensity": 0.4,
+          "dimIntensity": 0.01,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "WaveIntensity",
+          "minIntensity": 0.01,
+          "maxIntensity": 0.4,
+          "transitionTime": 0.23466666
+        },
+        {
+          "EffectType": "VfxEffectType",
+          "VfxEffectType": "VFX_Simultaneous",
+          "isEnabled": false,
+          "playTime": 0.08,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "VfxEffectType",
+          "VfxEffectType": "VFX_Wave",
+          "isEnabled": true,
+          "transitionTime": 1.0
+        }
+      ]
+    },
+    {
+      "groupName": "SINGLE_LIGHT_GROUP_1",
+      "effectTriggerDatas": [],
+      "defaultSettings": [
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Wave",
+          "angleMin": {
+            "x": 33.1972923,
+            "y": -11.001358,
+            "z": 39.19342
+          },
+          "angleMax": {
+            "x": -33.1972923,
+            "y": 11.001358,
+            "z": -39.19342
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -90.0,
+          "maxAngleY": 90.0,
+          "minAngleZ": -90.0,
+          "maxAngleZ": 90.0,
+          "centerOutwardCycles": -0.8,
+          "centerOutwardPulseAtCenter": true,
+          "syncWaveWithTransition": true,
+          "customWaveCycleTime": 1.5,
+          "propagationMode": 2,
+          "usedRandomModeWave": true,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Rotate",
+          "angleOrigin": {
+            "x": 54.50517,
+            "y": 74.97873,
+            "z": -76.32434
+          },
+          "angleTarget": {
+            "x": -54.50517,
+            "y": -74.97873,
+            "z": 76.32434
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -90.0,
+          "maxAngleY": 90.0,
+          "minAngleZ": -90.0,
+          "maxAngleZ": 90.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Circle_Rotate",
+          "angleOrigin": 69.07631,
+          "angleTarget": 93.41708,
+          "randomAngle": true,
+          "minAngle": 0.0,
+          "maxAngle": 180.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "PingPong",
+          "angleMin": {
+            "x": 22.8985519,
+            "y": -69.280426,
+            "z": -1.07551575
+          },
+          "angleMax": {
+            "x": -22.8985519,
+            "y": 69.280426,
+            "z": 1.07551575
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -90.0,
+          "maxAngleY": 90.0,
+          "minAngleZ": -90.0,
+          "maxAngleZ": 90.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "LaserCone",
+          "ShapeType": 0,
+          "angleOrigin": {
+            "x": 90.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angleTarget": {
+            "x": 90.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "radius": 0.1,
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -90.0,
+          "maxAngleY": -90.0,
+          "minAngleZ": 0.0,
+          "maxAngleZ": 0.0,
+          "coneAngleOrigin": 0.0,
+          "coneAngleTarget": 0.0,
+          "randomConeAngleMode": true,
+          "minConeAngle": 0.0,
+          "maxConeAngle": 90.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "LaserFan",
+          "angleOrigin": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angleTarget": {
+            "x": 0.0,
+            "y": 180.0,
+            "z": 0.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -30.0,
+          "maxAngleX": 30.0,
+          "minAngleY": 0.0,
+          "maxAngleY": 360.0,
+          "minAngleZ": -30.0,
+          "maxAngleZ": 30.0,
+          "spreadAngleOrigin": 30.0,
+          "targetSpreadAngle": 60.0,
+          "randomSpreadAngleMode": true,
+          "minSpreadAngle": 20.0,
+          "maxSpreadAngle": 90.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "StaticColor",
+          "staticColor": {
+            "r": 0.386464655,
+            "g": 0.382231534,
+            "b": 0.00377917336,
+            "a": 1.0
+          },
+          "randomColor": true,
+          "transitionTime": 0.582702637
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "PingPongColor",
+          "startColor": {
+            "r": 0.418189,
+            "g": 0.0277143754,
+            "b": 0.538885534,
+            "a": 1.0
+          },
+          "endColor": {
+            "r": 0.0577306822,
+            "g": 0.3618069,
+            "b": 0.3365045,
+            "a": 1.0
+          },
+          "randomColorMode": true,
+          "transitionTime": 0.5310364
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "RandomPerBeam",
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "SpectrumBased",
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "PingPongIntensity",
+          "pingPongSpeed": 2.0,
+          "minIntensity": 0.01,
+          "maxIntensity": 0.4,
+          "forwardDirection": true,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "AlternatingBeams",
+          "alternateSpeed": 1.5,
+          "brightIntensity": 0.4,
+          "dimIntensity": 0.01,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "WaveIntensity",
+          "minIntensity": 0.01,
+          "maxIntensity": 0.4,
+          "transitionTime": 0.5086975
+        },
+        {
+          "EffectType": "VfxEffectType",
+          "VfxEffectType": "VFX_Simultaneous",
+          "isEnabled": false,
+          "playTime": 0.08,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "VfxEffectType",
+          "VfxEffectType": "VFX_Wave",
+          "isEnabled": true,
+          "transitionTime": 1.0
+        }
+      ]
+    },
+    {
+      "groupName": "SINGLE_LIGHT_GROUP_2",
+      "effectTriggerDatas": [],
+      "defaultSettings": [
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Wave",
+          "angleMin": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angleMax": {
+            "x": 90.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -90.0,
+          "maxAngleY": 90.0,
+          "minAngleZ": -90.0,
+          "maxAngleZ": 90.0,
+          "centerOutwardCycles": -0.8,
+          "centerOutwardPulseAtCenter": true,
+          "syncWaveWithTransition": true,
+          "customWaveCycleTime": 1.5,
+          "propagationMode": 0,
+          "usedRandomModeWave": true,
+          "transitionTime": 0.5088196
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Rotate",
+          "angleOrigin": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angleTarget": {
+            "x": 90.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "randomAngleMode": false,
+          "minAngleX": -45.0,
+          "maxAngleX": 45.0,
+          "minAngleY": -45.0,
+          "maxAngleY": 45.0,
+          "minAngleZ": -45.0,
+          "maxAngleZ": 45.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Circle_Rotate",
+          "angleOrigin": 88.66756,
+          "angleTarget": 144.4753,
+          "randomAngle": true,
+          "minAngle": 0.0,
+          "maxAngle": 180.0,
+          "transitionTime": 0.5310364
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "PingPong",
+          "angleMin": {
+            "x": 74.72848,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angleMax": {
+            "x": 48.4428368,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -90.0,
+          "maxAngleY": 90.0,
+          "minAngleZ": -90.0,
+          "maxAngleZ": 90.0,
+          "transitionTime": 0.5470886
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "LaserCone",
+          "ShapeType": 0,
+          "angleOrigin": {
+            "x": 90.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angleTarget": {
+            "x": 90.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "radius": 0.1,
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -90.0,
+          "maxAngleY": -90.0,
+          "minAngleZ": 0.0,
+          "maxAngleZ": 0.0,
+          "coneAngleOrigin": 0.0,
+          "coneAngleTarget": 0.0,
+          "randomConeAngleMode": true,
+          "minConeAngle": 0.0,
+          "maxConeAngle": 90.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "LaserFan",
+          "angleOrigin": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angleTarget": {
+            "x": 0.0,
+            "y": 180.0,
+            "z": 0.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -30.0,
+          "maxAngleX": 30.0,
+          "minAngleY": 0.0,
+          "maxAngleY": 360.0,
+          "minAngleZ": -30.0,
+          "maxAngleZ": 30.0,
+          "spreadAngleOrigin": 30.0,
+          "targetSpreadAngle": 60.0,
+          "randomSpreadAngleMode": true,
+          "minSpreadAngle": 20.0,
+          "maxSpreadAngle": 90.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "StaticColor",
+          "staticColor": {
+            "r": 0.599832237,
+            "g": 0.86635983,
+            "b": 0.7612002,
+            "a": 1.0
+          },
+          "randomColor": true,
+          "transitionTime": 0.582702637
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "PingPongColor",
+          "startColor": {
+            "r": 0.7953968,
+            "g": 0.439688385,
+            "b": 0.370851547,
+            "a": 1.0
+          },
+          "endColor": {
+            "r": 0.7789304,
+            "g": 0.972817659,
+            "b": 0.8864533,
+            "a": 1.0
+          },
+          "randomColorMode": true,
+          "transitionTime": 0.5310364
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "RandomPerBeam",
+          "transitionTime": 0.5086975
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "SpectrumBased",
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "PingPongIntensity",
+          "pingPongSpeed": 2.0,
+          "minIntensity": 0.01,
+          "maxIntensity": 0.4,
+          "forwardDirection": true,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "AlternatingBeams",
+          "alternateSpeed": 1.5,
+          "brightIntensity": 0.4,
+          "dimIntensity": 0.01,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "WaveIntensity",
+          "minIntensity": 0.01,
+          "maxIntensity": 0.4,
+          "transitionTime": 0.5086975
+        },
+        {
+          "EffectType": "VfxEffectType",
+          "VfxEffectType": "VFX_Simultaneous",
+          "isEnabled": false,
+          "playTime": 0.08,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "VfxEffectType",
+          "VfxEffectType": "VFX_Wave",
+          "isEnabled": true,
+          "transitionTime": 1.0
+        }
+      ]
+    },
+    {
+      "groupName": "MULTI_LIGHT_GROUP_0",
+      "effectTriggerDatas": [],
+      "defaultSettings": [
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Wave",
+          "angleMin": {
+            "x": 7.97341347,
+            "y": -32.2083969,
+            "z": 0.0
+          },
+          "angleMax": {
+            "x": 37.6643372,
+            "y": 37.6671524,
+            "z": 0.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": 0.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": 0.0,
+          "maxAngleZ": 0.0,
+          "centerOutwardCycles": 1.5,
+          "centerOutwardPulseAtCenter": true,
+          "syncWaveWithTransition": true,
+          "customWaveCycleTime": 1.5,
+          "propagationMode": 1,
+          "usedRandomModeWave": false,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Rotate",
+          "angleOrigin": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angleTarget": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": 0.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": 0.0,
+          "maxAngleZ": 0.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Circle_Rotate",
+          "angleOrigin": 41.60202,
+          "angleTarget": 28.5817318,
+          "randomAngle": true,
+          "minAngle": 0.0,
+          "maxAngle": 90.0,
+          "transitionTime": 0.298666656
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "PingPong",
+          "angleMin": {
+            "x": 84.2091446,
+            "y": -8.70627,
+            "z": -25.7668762
+          },
+          "angleMax": {
+            "x": 11.9940338,
+            "y": -44.6699677,
+            "z": -6.218437
+          },
+          "randomAngleMode": true,
+          "minAngleX": 0.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": -45.0,
+          "maxAngleZ": 45.0,
+          "transitionTime": 0.32
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "LaserCone",
+          "ShapeType": 0,
+          "angleOrigin": {
+            "x": -139.99913,
+            "y": -59.1268768,
+            "z": 0.0
+          },
+          "angleTarget": {
+            "x": -146.884766,
+            "y": 23.6529617,
+            "z": 0.0
+          },
+          "radius": 0.1,
+          "randomAngleMode": true,
+          "minAngleX": -180.0,
+          "maxAngleX": -90.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": 0.0,
+          "maxAngleZ": 0.0,
+          "coneAngleOrigin": 12.8447237,
+          "coneAngleTarget": 43.0165558,
+          "randomConeAngleMode": true,
+          "minConeAngle": 0.0,
+          "maxConeAngle": 90.0,
+          "transitionTime": 0.582702637
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "LaserFan",
+          "angleOrigin": {
+            "x": -39.2482643,
+            "y": 40.2610168,
+            "z": 7.76284933
+          },
+          "angleTarget": {
+            "x": -40.721283,
+            "y": 16.0620251,
+            "z": 71.211586
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 0.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": 0.0,
+          "maxAngleZ": 180.0,
+          "spreadAngleOrigin": 44.11506,
+          "targetSpreadAngle": 31.0173931,
+          "randomSpreadAngleMode": true,
+          "minSpreadAngle": 0.0,
+          "maxSpreadAngle": 100.0,
+          "transitionTime": 0.5470886
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "StaticColor",
+          "staticColor": {
+            "r": 0.94631505,
+            "g": 0.350567,
+            "b": 0.267850429,
+            "a": 1.0
+          },
+          "randomColor": true,
+          "transitionTime": 0.5470886
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "PingPongColor",
+          "startColor": {
+            "r": 0.8376341,
+            "g": 0.587312758,
+            "b": 0.484444678,
+            "a": 1.0
+          },
+          "endColor": {
+            "r": 0.192459136,
+            "g": 0.850768566,
+            "b": 0.881845,
+            "a": 1.0
+          },
+          "randomColorMode": true,
+          "transitionTime": 0.5310364
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "RandomPerBeam",
+          "transitionTime": 0.582702637
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "SpectrumBased",
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "PingPongIntensity",
+          "pingPongSpeed": 2.0,
+          "minIntensity": 0.01,
+          "maxIntensity": 0.4,
+          "forwardDirection": true,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "AlternatingBeams",
+          "alternateSpeed": 1.5,
+          "brightIntensity": 0.4,
+          "dimIntensity": 0.01,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "WaveIntensity",
+          "minIntensity": 0.01,
+          "maxIntensity": 0.4,
+          "transitionTime": 0.5470886
+        },
+        {
+          "EffectType": "VfxEffectType",
+          "VfxEffectType": "VFX_Simultaneous",
+          "isEnabled": false,
+          "playTime": 0.08,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "VfxEffectType",
+          "VfxEffectType": "VFX_Wave",
+          "isEnabled": true,
+          "transitionTime": 1.0
+        }
+      ]
+    },
+    {
+      "groupName": "MULTI_LIGHT_GROUP_1",
+      "effectTriggerDatas": [],
+      "defaultSettings": [
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Wave",
+          "angleMin": {
+            "x": -45.0,
+            "y": -30.0,
+            "z": -20.0
+          },
+          "angleMax": {
+            "x": 45.0,
+            "y": 30.0,
+            "z": 20.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": -45.0,
+          "maxAngleZ": 45.0,
+          "centerOutwardCycles": 1.5,
+          "centerOutwardPulseAtCenter": true,
+          "syncWaveWithTransition": true,
+          "customWaveCycleTime": 1.5,
+          "propagationMode": 1,
+          "usedRandomModeWave": false,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Rotate",
+          "angleOrigin": {
+            "x": -45.0,
+            "y": -30.0,
+            "z": -20.0
+          },
+          "angleTarget": {
+            "x": 45.0,
+            "y": 30.0,
+            "z": 20.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": -45.0,
+          "maxAngleZ": 45.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Circle_Rotate",
+          "angleOrigin": 0.0,
+          "angleTarget": 120.0,
+          "randomAngle": true,
+          "minAngle": 0.0,
+          "maxAngle": 90.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "PingPong",
+          "angleMin": {
+            "x": -45.0,
+            "y": -30.0,
+            "z": -20.0
+          },
+          "angleMax": {
+            "x": 45.0,
+            "y": 30.0,
+            "z": 20.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": -45.0,
+          "maxAngleZ": 45.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "LaserCone",
+          "ShapeType": 0,
+          "angleOrigin": {
+            "x": -102.007805,
+            "y": 127.246849,
+            "z": -39.1022034
+          },
+          "angleTarget": {
+            "x": -101.525742,
+            "y": 126.167053,
+            "z": 12.5222168
+          },
+          "radius": 0.1,
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": -180.0,
+          "minAngleY": 0.0,
+          "maxAngleY": 180.0,
+          "minAngleZ": -60.0,
+          "maxAngleZ": 60.0,
+          "coneAngleOrigin": 47.35765,
+          "coneAngleTarget": 56.2823944,
+          "randomConeAngleMode": true,
+          "minConeAngle": 10.0,
+          "maxConeAngle": 180.0,
+          "transitionTime": 0.582702637
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "LaserFan",
+          "angleOrigin": {
+            "x": -17.2030048,
+            "y": 0.0,
+            "z": 36.66185
+          },
+          "angleTarget": {
+            "x": -47.1995125,
+            "y": 0.0,
+            "z": 28.45989
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 0.0,
+          "minAngleY": 0.0,
+          "maxAngleY": 0.0,
+          "minAngleZ": 0.0,
+          "maxAngleZ": 180.0,
+          "spreadAngleOrigin": 127.973282,
+          "targetSpreadAngle": 123.035446,
+          "randomSpreadAngleMode": true,
+          "minSpreadAngle": 90.0,
+          "maxSpreadAngle": 180.0,
+          "transitionTime": 0.5470886
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "StaticColor",
+          "staticColor": {
+            "r": 0.222798973,
+            "g": 0.2652327,
+            "b": 0.854509234,
+            "a": 1.0
+          },
+          "randomColor": true,
+          "transitionTime": 0.5470886
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "PingPongColor",
+          "startColor": {
+            "r": 0.0117865819,
+            "g": 0.390923679,
+            "b": 0.06228078,
+            "a": 1.0
+          },
+          "endColor": {
+            "r": 0.07008351,
+            "g": 0.5634858,
+            "b": 0.468919337,
+            "a": 1.0
+          },
+          "randomColorMode": true,
+          "transitionTime": 0.5310364
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "RandomPerBeam",
+          "transitionTime": 0.582702637
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "SpectrumBased",
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "PingPongIntensity",
+          "pingPongSpeed": 2.0,
+          "minIntensity": 0.01,
+          "maxIntensity": 0.4,
+          "forwardDirection": true,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "AlternatingBeams",
+          "alternateSpeed": 1.5,
+          "brightIntensity": 0.4,
+          "dimIntensity": 0.01,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "WaveIntensity",
+          "minIntensity": 0.01,
+          "maxIntensity": 0.4,
+          "transitionTime": 0.5470886
+        },
+        {
+          "EffectType": "VfxEffectType",
+          "VfxEffectType": "VFX_Simultaneous",
+          "isEnabled": false,
+          "playTime": 0.08,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "VfxEffectType",
+          "VfxEffectType": "VFX_Wave",
+          "isEnabled": true,
+          "transitionTime": 1.216
+        }
+      ]
+    },
+    {
+      "groupName": "MULTI_LIGHT_GROUP_2",
+      "effectTriggerDatas": [],
+      "defaultSettings": [
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Wave",
+          "angleMin": {
+            "x": -45.0,
+            "y": -30.0,
+            "z": -20.0
+          },
+          "angleMax": {
+            "x": 45.0,
+            "y": 30.0,
+            "z": 20.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": -45.0,
+          "maxAngleZ": 45.0,
+          "centerOutwardCycles": 1.5,
+          "centerOutwardPulseAtCenter": true,
+          "syncWaveWithTransition": true,
+          "customWaveCycleTime": 1.5,
+          "propagationMode": 1,
+          "usedRandomModeWave": false,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Rotate",
+          "angleOrigin": {
+            "x": -45.0,
+            "y": -30.0,
+            "z": -20.0
+          },
+          "angleTarget": {
+            "x": 45.0,
+            "y": 30.0,
+            "z": 20.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": -45.0,
+          "maxAngleZ": 45.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Circle_Rotate",
+          "angleOrigin": 0.0,
+          "angleTarget": 120.0,
+          "randomAngle": true,
+          "minAngle": 0.0,
+          "maxAngle": 90.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "PingPong",
+          "angleMin": {
+            "x": -45.0,
+            "y": -30.0,
+            "z": -20.0
+          },
+          "angleMax": {
+            "x": 45.0,
+            "y": 30.0,
+            "z": 20.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": -45.0,
+          "maxAngleZ": 45.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "LaserCone",
+          "ShapeType": 0,
+          "angleOrigin": {
+            "x": 2.48580551,
+            "y": 34.05476,
+            "z": -21.06851
+          },
+          "angleTarget": {
+            "x": -3.11862183,
+            "y": 72.69767,
+            "z": 10.5381851
+          },
+          "radius": 0.1,
+          "randomAngleMode": true,
+          "minAngleX": -60.0,
+          "maxAngleX": 60.0,
+          "minAngleY": -90.0,
+          "maxAngleY": 90.0,
+          "minAngleZ": -60.0,
+          "maxAngleZ": 60.0,
+          "coneAngleOrigin": 76.75934,
+          "coneAngleTarget": 66.32501,
+          "randomConeAngleMode": true,
+          "minConeAngle": 0.0,
+          "maxConeAngle": 180.0,
+          "transitionTime": 2.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "LaserFan",
+          "angleOrigin": {
+            "x": -14.5589371,
+            "y": -62.2306366,
+            "z": 123.707184
+          },
+          "angleTarget": {
+            "x": 13.0052719,
+            "y": -82.9080048,
+            "z": 322.219452
+          },
+          "randomAngleMode": true,
+          "minAngleX": -60.0,
+          "maxAngleX": 60.0,
+          "minAngleY": -90.0,
+          "maxAngleY": -60.0,
+          "minAngleZ": 60.0,
+          "maxAngleZ": 360.0,
+          "spreadAngleOrigin": 57.3298569,
+          "targetSpreadAngle": 87.237175,
+          "randomSpreadAngleMode": true,
+          "minSpreadAngle": 0.0,
+          "maxSpreadAngle": 90.0,
+          "transitionTime": 2.0
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "StaticColor",
+          "staticColor": {
+            "r": 0.327260047,
+            "g": 0.473986566,
+            "b": 0.928959,
+            "a": 1.0
+          },
+          "randomColor": true,
+          "transitionTime": 2.0
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "PingPongColor",
+          "startColor": {
+            "r": 0.9898348,
+            "g": 0.01723981,
+            "b": 0.327394634,
+            "a": 1.0
+          },
+          "endColor": {
+            "r": 0.426451027,
+            "g": 0.112418309,
+            "b": 0.161534086,
+            "a": 1.0
+          },
+          "randomColorMode": true,
+          "transitionTime": 0.5310364
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "RandomPerBeam",
+          "transitionTime": 0.582702637
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "SpectrumBased",
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "PingPongIntensity",
+          "pingPongSpeed": 2.0,
+          "minIntensity": 0.01,
+          "maxIntensity": 0.4,
+          "forwardDirection": true,
+          "transitionTime": 2.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "AlternatingBeams",
+          "alternateSpeed": 1.5,
+          "brightIntensity": 0.4,
+          "dimIntensity": 0.01,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "WaveIntensity",
+          "minIntensity": 0.01,
+          "maxIntensity": 0.4,
+          "transitionTime": 0.5470886
+        },
+        {
+          "EffectType": "VfxEffectType",
+          "VfxEffectType": "VFX_Simultaneous",
+          "isEnabled": false,
+          "playTime": 0.08,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "VfxEffectType",
+          "VfxEffectType": "VFX_Wave",
+          "isEnabled": true,
+          "transitionTime": 1.0
+        }
+      ]
+    },
+    {
+      "groupName": "VFX_GROUP_1",
+      "effectTriggerDatas": [],
+      "defaultSettings": [
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Wave",
+          "angleMin": {
+            "x": -45.0,
+            "y": -30.0,
+            "z": -20.0
+          },
+          "angleMax": {
+            "x": 45.0,
+            "y": 30.0,
+            "z": 20.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": -45.0,
+          "maxAngleZ": 45.0,
+          "centerOutwardCycles": 1.5,
+          "centerOutwardPulseAtCenter": true,
+          "syncWaveWithTransition": true,
+          "customWaveCycleTime": 1.5,
+          "propagationMode": 1,
+          "usedRandomModeWave": false,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Rotate",
+          "angleOrigin": {
+            "x": -45.0,
+            "y": -30.0,
+            "z": -20.0
+          },
+          "angleTarget": {
+            "x": 45.0,
+            "y": 30.0,
+            "z": 20.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": -45.0,
+          "maxAngleZ": 45.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Circle_Rotate",
+          "angleOrigin": 0.0,
+          "angleTarget": 120.0,
+          "randomAngle": true,
+          "minAngle": 0.0,
+          "maxAngle": 90.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "PingPong",
+          "angleMin": {
+            "x": -45.0,
+            "y": -30.0,
+            "z": -20.0
+          },
+          "angleMax": {
+            "x": 45.0,
+            "y": 30.0,
+            "z": 20.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": -45.0,
+          "maxAngleZ": 45.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "LaserCone",
+          "ShapeType": 0,
+          "angleOrigin": {
+            "x": 90.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angleTarget": {
+            "x": 90.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "radius": 0.1,
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -90.0,
+          "maxAngleY": -90.0,
+          "minAngleZ": 0.0,
+          "maxAngleZ": 0.0,
+          "coneAngleOrigin": 0.0,
+          "coneAngleTarget": 0.0,
+          "randomConeAngleMode": true,
+          "minConeAngle": 0.0,
+          "maxConeAngle": 90.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "LaserFan",
+          "angleOrigin": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angleTarget": {
+            "x": 0.0,
+            "y": 180.0,
+            "z": 0.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -30.0,
+          "maxAngleX": 30.0,
+          "minAngleY": 0.0,
+          "maxAngleY": 360.0,
+          "minAngleZ": -30.0,
+          "maxAngleZ": 30.0,
+          "spreadAngleOrigin": 30.0,
+          "targetSpreadAngle": 60.0,
+          "randomSpreadAngleMode": true,
+          "minSpreadAngle": 20.0,
+          "maxSpreadAngle": 90.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "StaticColor",
+          "staticColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "randomColor": true,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "PingPongColor",
+          "startColor": {
+            "r": 1.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 1.0
+          },
+          "endColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "randomColorMode": true,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "RandomPerBeam",
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "SpectrumBased",
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "PingPongIntensity",
+          "pingPongSpeed": 2.0,
+          "minIntensity": 0.01,
+          "maxIntensity": 0.4,
+          "forwardDirection": true,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "AlternatingBeams",
+          "alternateSpeed": 1.5,
+          "brightIntensity": 0.4,
+          "dimIntensity": 0.01,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "WaveIntensity",
+          "minIntensity": 0.01,
+          "maxIntensity": 0.4,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "VfxEffectType",
+          "VfxEffectType": "VFX_Simultaneous",
+          "isEnabled": true,
+          "playTime": 0.08,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "VfxEffectType",
+          "VfxEffectType": "VFX_Wave",
+          "isEnabled": true,
+          "transitionTime": 0.5470886
+        }
+      ]
+    },
+    {
+      "groupName": "VFX_GROUP_0",
+      "effectTriggerDatas": [],
+      "defaultSettings": [
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Wave",
+          "angleMin": {
+            "x": -45.0,
+            "y": -30.0,
+            "z": -20.0
+          },
+          "angleMax": {
+            "x": 45.0,
+            "y": 30.0,
+            "z": 20.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": -45.0,
+          "maxAngleZ": 45.0,
+          "centerOutwardCycles": 1.5,
+          "centerOutwardPulseAtCenter": true,
+          "syncWaveWithTransition": true,
+          "customWaveCycleTime": 1.5,
+          "propagationMode": 1,
+          "usedRandomModeWave": false,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Rotate",
+          "angleOrigin": {
+            "x": -45.0,
+            "y": -30.0,
+            "z": -20.0
+          },
+          "angleTarget": {
+            "x": 45.0,
+            "y": 30.0,
+            "z": 20.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": -45.0,
+          "maxAngleZ": 45.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "Circle_Rotate",
+          "angleOrigin": 0.0,
+          "angleTarget": 120.0,
+          "randomAngle": true,
+          "minAngle": 0.0,
+          "maxAngle": 90.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "PingPong",
+          "angleMin": {
+            "x": -45.0,
+            "y": -30.0,
+            "z": -20.0
+          },
+          "angleMax": {
+            "x": 45.0,
+            "y": 30.0,
+            "z": 20.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -60.0,
+          "maxAngleY": 60.0,
+          "minAngleZ": -45.0,
+          "maxAngleZ": 45.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "LaserCone",
+          "ShapeType": 0,
+          "angleOrigin": {
+            "x": 90.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angleTarget": {
+            "x": 90.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "radius": 0.1,
+          "randomAngleMode": true,
+          "minAngleX": -90.0,
+          "maxAngleX": 90.0,
+          "minAngleY": -90.0,
+          "maxAngleY": -90.0,
+          "minAngleZ": 0.0,
+          "maxAngleZ": 0.0,
+          "coneAngleOrigin": 0.0,
+          "coneAngleTarget": 0.0,
+          "randomConeAngleMode": true,
+          "minConeAngle": 0.0,
+          "maxConeAngle": 90.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "MotionEffectType",
+          "MotionEffectType": "LaserFan",
+          "angleOrigin": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "angleTarget": {
+            "x": 0.0,
+            "y": 180.0,
+            "z": 0.0
+          },
+          "randomAngleMode": true,
+          "minAngleX": -30.0,
+          "maxAngleX": 30.0,
+          "minAngleY": 0.0,
+          "maxAngleY": 360.0,
+          "minAngleZ": -30.0,
+          "maxAngleZ": 30.0,
+          "spreadAngleOrigin": 30.0,
+          "targetSpreadAngle": 60.0,
+          "randomSpreadAngleMode": true,
+          "minSpreadAngle": 20.0,
+          "maxSpreadAngle": 90.0,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "StaticColor",
+          "staticColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "randomColor": true,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "PingPongColor",
+          "startColor": {
+            "r": 1.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 1.0
+          },
+          "endColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "randomColorMode": true,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "ColorEffectType",
+          "ColorEffectType": "RandomPerBeam",
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "SpectrumBased",
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "PingPongIntensity",
+          "pingPongSpeed": 2.0,
+          "minIntensity": 0.01,
+          "maxIntensity": 0.4,
+          "forwardDirection": true,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "AlternatingBeams",
+          "alternateSpeed": 1.5,
+          "brightIntensity": 0.4,
+          "dimIntensity": 0.01,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "IntensityEffectType",
+          "IntensityEffectType": "WaveIntensity",
+          "minIntensity": 0.01,
+          "maxIntensity": 0.4,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "VfxEffectType",
+          "VfxEffectType": "VFX_Simultaneous",
+          "isEnabled": true,
+          "playTime": 0.01,
+          "transitionTime": 1.0
+        },
+        {
+          "EffectType": "VfxEffectType",
+          "VfxEffectType": "VFX_Wave",
+          "isEnabled": true,
+          "transitionTime": 0.5470886
+        }
+      ]
+    }
+  ]
+}

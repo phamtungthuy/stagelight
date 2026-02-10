@@ -1,0 +1,4 @@
+.env
+*.pvc
+__pycache__
+venv
