@@ -1,0 +1,1355 @@
+{
+  "audioClipName": "YDSLOWMEP",
+  "beats": [
+    {
+      "time": 0.533310652,
+      "duration": 0.5,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 0,
+          "ColorEffect": 1,
+          "IntensityEffect": 0,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "At the intro’s first beat the energy is low and the mood should be subtle. A cool static color wash on a multi‑light group sets the stage without motion or VFX, keeping the opening calm while still marking the downbeat."
+    },
+    {
+      "time": 2.13331056,
+      "duration": 0.5,
+      "groupLights": [],
+      "reasoning": "At ~1% the track is still in the intro, building tension with subtle, cool lighting. This beat has medium energy but is early and should provide breathing room rather than a dramatic change, following the 60‑70% sync rule for gradual build."
+    },
+    {
+      "time": 3.79732418,
+      "duration": 0.5,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "This beat is in the early intro; energy is rising but still subtle, so a gentle rotating wash keeps tension building without overwhelming. No VFX or strobe is used to respect the intro’s calm character and the 60‑70% sync rule."
+    },
+    {
+      "time": 5.439977,
+      "duration": 1.60682809,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 0,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "At ~4% into the track this is still an intro, so we keep the visual atmosphere subtle and build tension. A single moving head with a gentle wave motion and a cool static color introduces motion without overwhelming the quiet, low‑energy section, satisfying the 60‑70% sync rule and intro guidelines."
+    },
+    {
+      "time": 7.295986,
+      "duration": 1.61518872,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Intro section (~5%) is low‑energy build‑tension; we use a subtle wave on a single moving head to create gentle motion without strobe. No VFX, only a warm static color and ping‑pong intensity for vocal support."
+    },
+    {
+      "time": 9.151996,
+      "duration": 1.71074224,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "At ~6% of the track the intro is still building tension; a subtle, cool wash supports the vocals without overwhelming. A single moving head with a gentle rotate motion and static cool color provides contrast while keeping the energy low, fitting professional intro pacing."
+    },
+    {
+      "time": 10.8586626,
+      "duration": 1.71014369,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Intro (~8%) is early build‑out – medium energy but still subtle. A single laser cone on a multi‑light group with a cool static color and alternating beams hints at rising tension without overwhelming the calm wash, following the 60–70% sync rule and intro guidelines."
+    },
+    {
+      "time": 12.458662,
+      "duration": 1.707539,
+      "groupLights": [
+        {
+          "groupLightKey": 3,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "At 9% of the track the intro is still building tension; the energy is medium but dominant band is mid with low brightness, so a subtle motion is appropriate. A single moving head with a gentle wave motion and a cool static color supports the vocal wash without overwhelming, following the intro and breathing room guidelines."
+    },
+    {
+      "time": 14.1013155,
+      "duration": 1.7041173,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 0,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 9/79 falls in the early verse with medium, mid‑band energy and low brightness; to keep the section supportive yet not overwhelming, a single light group uses a gentle wave motion with a warm static color. This provides subtle movement on the downbeat while maintaining breathing space for the vocals."
+    },
+    {
+      "time": 15.7013149,
+      "duration": 1.69986057,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 10/79 falls in the early verse, medium energy and high‑band emphasis—ideal for a subtle, supportive motion rather than a full‑blown drop. A single moving head with a gentle wave keeps the vocals in focus, using a warm static color and ping‑pong intensity for subtle variation while respecting the 60‑70% sync rule."
+    },
+    {
+      "time": 17.3866444,
+      "duration": 1.69773662,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 11/79 falls early in the verse (~13% of the track) with medium energy and high‑band emphasis. To support vocals without overwhelming, a gentle rotating effect on a single moving head with a warm static color and subtle intensity variation provides a subtle wash while keeping the 60‑70% sync rule."
+    },
+    {
+      "time": 19.0079823,
+      "duration": 1.694848,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Verse section with medium energy; a gentle wave motion on a single light supports vocals without overwhelming. Using a warm static color keeps the mood calm while the alternating intensity adds subtle breathing."
+    },
+    {
+      "time": 20.6506577,
+      "duration": 1.69414866,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 13/79 falls in the early verse with medium energy and high‑frequency vocals; professional practice calls for a subtle, supportive motion rather than full‑blown effects. A single moving head with a gentle wave motion and warm static color keeps the focus on the vocals while providing rhythmic breathing room, meeting the 60‑70% sync rule."
+    },
+    {
+      "time": 22.29331,
+      "duration": 1.69049215,
+      "groupLights": [
+        {
+          "groupLightKey": 3,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 14/79 falls in the verse, medium energy, high‑frequency content, so a subtle rotating/wave motion supports the vocals without overwhelming the mix. A single moving head with a warm static color and wave‑intensity syncs to the beat, providing gentle movement while keeping the section restrained."
+    },
+    {
+      "time": 23.9359856,
+      "duration": 1.68274128,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 15 falls in the verse, moderate energy with high‑frequency hits. Using a moving‑head Wave creates gentle motion to support vocals, while a LaserCone adds subtle dynamic without overwhelming the section. This gives ~70% sync while keeping the feel relaxed."
+    },
+    {
+      "time": 25.5573235,
+      "duration": 1.67509878,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 16 is in the middle of a verse with medium energy and no lyrics, so we keep the lighting subtle yet supportive. A single moving head with a gentle rotate motion, warm static color, and modest intensity ping‑pong gives breathing room while still highlighting the vocal line that follows."
+    },
+    {
+      "time": 27.2426529,
+      "duration": 1.66966021,
+      "groupLights": [],
+      "reasoning": "Beat 17 is early in the verse (≈21% of the track) with medium energy and high‑frequency emphasis but no vocal lyric. Following the 60–70% sync rule and the ‘less is more’ start‑of‑verse principle, this beat offers breathing room and no dramatic changes."
+    },
+    {
+      "time": 29.0986614,
+      "duration": 1.66735113,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Verse with moderate energy; use gentle wave motion on a single moving head to support vocals without overwhelming; warm static color and wave intensity create subtle build."
+    },
+    {
+      "time": 30.6773243,
+      "duration": 1.66488683,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "This beat sits in a mid‑verse with medium energy and high‑dominant vocals; we keep the lighting supportive rather than flashy. A single moving head with a gentle rotate motion and a warm static color provides vocal support while staying in line with the 60‑70% sync rule and avoiding over‑stimulation."
+    },
+    {
+      "time": 32.17066,
+      "duration": 1.65950584,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 20 sits in the middle of a verse with medium energy and high‑band dominance. To support the vocals without overpowering, a gentle Wave motion on a single moving head with a warm static color and moderate intensity variation keeps the light on the beat while giving breathing room, following the 60‑70% sync rule."
+    },
+    {
+      "time": 33.7066422,
+      "duration": 1.65389383,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Verse section with medium high‑energy; to support vocals without overwhelming, a single rotating moving head with a warm static color and gentle ping‑pong intensity provides subtle motion and color support while keeping the mix airy."
+    },
+    {
+      "time": 35.2213135,
+      "duration": 1.6466068,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Verse section with medium energy and high‑band focus; use subtle wave motion on a single light to support vocals and a laser cone for texture, keeping intensity low to avoid overpowering the lyric delivery."
+    },
+    {
+      "time": 36.71465,
+      "duration": 1.63782859,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "This beat sits in the middle of a verse with moderate high‑frequency energy, so we opt for subtle motion rather than full‑on effects. A rotating single head and a steady laser cone provide gentle motion and color support for the vocals, staying within the 60‑70 % sync rule and keeping the section calm."
+    },
+    {
+      "time": 38.22932,
+      "duration": 1.62825477,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 24/79 falls in a medium‑energy verse with high‑frequency content and vocal lines; a subtle wave motion on a single moving head provides supportive light without overpowering the section, aligning with the 60‑70% sync rule."
+    },
+    {
+      "time": 39.89331,
+      "duration": 1.62099159,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 25/79 falls in the pre‑chorus build‑up with medium energy and high‑frequency vocals; a subtle LaserFan keeps the audience engaged without overwhelming the section. A static color with wave‑intensity adds dynamic texture and supports the vocal line, following the 60‑70% sync rule and gradual build‑up to the drop."
+    },
+    {
+      "time": 41.51465,
+      "duration": 1.61420012,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "At ~32% of the track this beat falls in the pre‑chorus build‑up with medium energy and high‑frequency dominance; we increase motion and color variation without full VFX. Two groups—one multi‑beam laser cone for sustained movement and one single‑head wave for rhythmic support—provide 60‑70 % sync while keeping breathing room."
+    },
+    {
+      "time": 43.1573257,
+      "duration": 1.60638666,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 27/79 sits in the pre‑chorus build‑up with medium energy and high‑frequency vocals; it’s a prime spot for gradual intensity increase but not yet a drop, so we avoid VFX. We use a multi‑light laser cone and a single rotating light to add motion and color variation, keeping the beat’s energy rising while respecting the 60‑70% sync rule."
+    },
+    {
+      "time": 44.8213158,
+      "duration": 1.60100532,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "At beat 28/79 the track is in a pre‑chorus build‑up: medium energy, moderate brightness, and vocal lines present. To gradually raise intensity we use a single moving‑head with a Wave motion and a synchronized laser cone, keeping VFX off and providing color and intensity cues without overwhelming the vocals."
+    },
+    {
+      "time": 46.46399,
+      "duration": 1.59908843,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 29 falls in the pre‑chorus build‑up, medium energy with high‑frequency emphasis and lyrics that cue the vocalist. To gradually lift intensity, a single synchronized laser fan (group 4) with random per‑beam colors and alternating beam intensity syncs with the high‑band energy without overwhelming the mix. This follows the 60‑70% sync rule and keeps VFX off until the drop."
+    },
+    {
+      "time": 48.0853271,
+      "duration": 1.598801,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "This beat falls in the pre‑chorus build‑up with medium‑high energy and prominent vocal lyrics, so we add subtle laser motion and rotating single‑head movement to raise tension without full drop intensity. No VFX is used, staying within the rule that VFX only appears at the climax. The selected effects provide a 70% sync rate while keeping room for breathing."
+    },
+    {
+      "time": 49.72798,
+      "duration": 1.6007086,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 31 falls in the pre‑chorus build‑up with medium energy and high‑band dominance. The lyric “Make it rain, I’m makin’ it snow” signals a visual cue for a light build, so we introduce a moderate laser fan to raise intensity without reaching a full drop. A single MULTI_LIGHT_GROUP with laser fan motion, dynamic color and spectrum‑based intensity supports the vocals while keeping the stage controlled for a 60‑70% sync rate."
+    },
+    {
+      "time": 51.37066,
+      "duration": 1.60464036,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "At beat 32, the song is in the pre‑chorus build‑up with medium energy but high‑frequency focus. A laser fan with a warm static color and spectrum‑based intensity ramps the intensity while keeping VFX off until the drop, providing a gradual rise that follows professional stage‑lighting rules."
+    },
+    {
+      "time": 53.01331,
+      "duration": 1.60856771,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 33 falls in the pre‑chorus build‑up with medium energy and a high‑bass line; we add a subtle laser sweep and a rotating single‑head to lift intensity while keeping the feel warm and supportive of the vocals. This keeps 60‑70 % of beats active without over‑saturating the section."
+    },
+    {
+      "time": 54.54932,
+      "duration": 1.60943961,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "At ~42% of the track, this beat sits in the pre‑chorus build‑up with medium‑high energy and lyrical content. A LaserFan (multi‑light group) with random per‑beam colors and a wave intensity effect provides moving, bright beams that grow in sync with the bass, keeping the build‑up dynamic yet not yet at full drop intensity, respecting the 60–70% sync rule."
+    },
+    {
+      "time": 56.06399,
+      "duration": 1.60851014,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 35 falls in the pre‑chorus build‑up, medium energy but high‑frequency content. To gradually raise intensity, two synchronized laser groups are used, adding color variation without strobing. This keeps 60‑70% sync while preserving contrast before the drop."
+    },
+    {
+      "time": 57.66399,
+      "duration": 1.60680842,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 3,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 36/79 falls in the pre‑chorus build‑up: medium energy, high‑band dominance, and vocals present. To gradually raise intensity, a rotating single head (Motion 4) adds dynamic motion, while a LaserCone (Motion 1) starts the beam buildup. No VFX is used to keep the section from becoming too aggressive before the drop."
+    },
+    {
+      "time": 59.32798,
+      "duration": 1.605762,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 37 sits in the chorus/drop where energy peaks; we introduce VFX for dramatic impact and lasers to accentuate high‑frequency melodies. A single moving‑head adds rhythmic wave motion, while the multi‑head laser cone provides a bright, dynamic sweep—following the 60‑70% sync rule and keeping the beat from feeling robotic."
+    },
+    {
+      "time": 60.86399,
+      "duration": 1.60306883,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 38 is the second beat of a 4‑beat phrase during the chorus; it’s a good spot for a subtle build rather than the full drop. Using a LaserFan with random color variation keeps the energy rising while respecting the 60–70% sync rule and avoiding VFX on a non‑downbeat lyric moment."
+    },
+    {
+      "time": 62.3786621,
+      "duration": 1.59865189,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 39 sits at the start of the chorus/drop where energy is still building but high‑band content is present.  To follow the 60‑70% sync rule and keep the feel dynamic without over‑stimulation, we use a laser fan and a wave motion on single heads, adding subtle color and intensity variation to support the vocal line.  No VFX is introduced until the true drop peak arrives."
+    },
+    {
+      "time": 63.91465,
+      "duration": 1.59336925,
+      "groupLights": [],
+      "reasoning": "This chorus beat has medium energy, low brightness and mid‑band dominance, indicating a gentle build rather than the peak drop. To maintain breathing room and avoid over‑stimulation, we leave it silent, following the 60–70% sync rule and respecting VFX restraint on non‑climax moments."
+    },
+    {
+      "time": 65.42932,
+      "duration": 1.58641815,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 41 is the downbeat of the chorus/drop (~51% of the track) with medium‑energy but high‑dominant bass, so we trigger a full‑on visual cascade. A VFX group provides a simultaneous burst, a laser cone delivers bright, random‑beam motion, and a single‑head wave adds rhythmic motion to support the vocal line."
+    },
+    {
+      "time": 67.13599,
+      "duration": 1.58374166,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 42/79 falls in the chorus/drop where energy peaks and the lyric “She hit the floor” is a key moment. To match the high‑energy, high‑bass feel we use a laser cone and a wave motion on the moving heads, plus a subtle VFX layer for atmosphere. This keeps 60‑70% of beats active while giving breathing room elsewhere."
+    },
+    {
+      "time": 68.65066,
+      "duration": 1.58119631,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 43 falls within the chorus/drop section (≈54 % of the track) but the energy is moderate, so we opt for a balanced lighting cue that maintains momentum without over‑stimulation. A single‑head wave keeps the vocal line highlighted, while two synchronized laser fans/cones add visual punch on the beat‑1/3 emphasis, providing contrast and energy while staying within the 60‑70 % sync rule."
+    },
+    {
+      "time": 70.14399,
+      "duration": 1.57858229,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 44/79 falls in the chorus drop area with high‑band energy and vocal lyric, so we provide supporting effects but keep intensity moderate to avoid overwhelming the mix. A multi‑light laser cone with random colors and wave intensity syncs with the bass, while a single moving head rotates with alternating beams to accent the vocal line. Both groups follow hard constraints and maintain 60‑70% sync for breathing room."
+    },
+    {
+      "time": 71.76533,
+      "duration": 1.57709789,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        }
+      ],
+      "reasoning": "Beat 45/79 falls in the chorus/drop section (~56% song position) with high energy and dominant high-frequency content, making it an ideal moment for dramatic laser and VFX. The beat receives a LaserFan multi-light group to sync with the melodic high notes, plus a VFX group for a simultaneous burst to punctuate the drop, while keeping the 60‑70% sync rule and leaving room for breath on other beats."
+    },
+    {
+      "time": 73.38664,
+      "duration": 1.57465374,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 46/79 falls mid‑chorus with medium energy and a repeated vocal line; professional practice calls for a moderate, non‑overwhelming effect to sustain the groove while keeping 60‑70% of beats in sync. A single laser cone with rhythmic color and intensity variation supports the vocal without dominating the mix."
+    },
+    {
+      "time": 75.072,
+      "duration": 1.57528067,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 47/79 falls in the chorus where energy spikes and vocals are prominent; we use synchronized lasers and moving wash to accentuate the lyric \"Shawty got low…\" while keeping the lighting dynamic yet not overwhelming. Two groups provide 60‑70 % sync, leaving room for breathing between beats."
+    },
+    {
+      "time": 76.672,
+      "duration": 1.57629371,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "At beat 48/79 (~60% of the track) we’re stepping into the chorus drop where the high‑energy, high‑frequency vocals call for a dramatic visual build. The laser cone on the multi‑light group syncs with the beat, while the simultaneous VFX group adds a burst of pyrotechnic flair. A single‑head wave adds movement without overcrowding the stage, keeping the 60–70% sync rule in mind."
+    },
+    {
+      "time": 78.31465,
+      "duration": 1.5785377,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 49/79 falls in the chorus/drop section with medium‑high energy and high dominant frequencies; we add synchronized laser and rotating beam motion to maintain intensity while keeping the mix clean. No VFX is used to avoid over‑saturation, and only two active groups provide 60‑70 % sync for breathing room."
+    },
+    {
+      "time": 79.89331,
+      "duration": 1.58177567,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 50/79 sits in the middle of the chorus drop with medium‑high energy and strong vocal lines, so a laser fan with alternating beams creates a dynamic backdrop while keeping the mix from feeling over‑crowded. The VFX group stays off to avoid clutter, and only one multi‑light group is used to meet the 60‑70% sync rule."
+    },
+    {
+      "time": 81.42932,
+      "duration": 1.58128834,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        }
+      ],
+      "reasoning": "Beat 51/79 marks the start of a high‑energy chorus with a strong bass hit. Following professional lighting conventions, we use synchronized laser cone and fan motions with vivid color and intensity to highlight the beat, and add a VFX group for the drop climax. The motion effects align with the bass, while color and intensity support the vocals without over‑stimulation."
+    },
+    {
+      "time": 83.00798,
+      "duration": 1.58231771,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Medium energy and high‑band dominance in a verse section call for a subtle, sustaining motion rather than a full‑blown drop. A single moving head with a Wave motion, static color, and alternating intensity adds momentum to the vocal line while keeping the energy level appropriate and maintaining the 60‑70% sync rule."
+    },
+    {
+      "time": 84.54399,
+      "duration": 1.58393478,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 53/79 falls in a medium‑energy verse; we use a subtle Rotate motion on a single moving head to support vocals without overwhelming, with a warm static color and spectrum‑based intensity for contrast and breathing room."
+    },
+    {
+      "time": 86.05866,
+      "duration": 1.583236,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 54/79 falls in a mid‑energy verse section with steady vocal phrasing; a subtle rotating motion supports the vocals without overpowering the mix. A single moving head with a gentle rotate motion, warm static color and ping‑pong intensity keeps the energy alive while respecting the 60–70 % sync rule."
+    },
+    {
+      "time": 87.70132,
+      "duration": 1.58341849,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "This beat falls within a repetitive verse section with medium energy and high-frequency vocal backing. To support the vocals without overwhelming, a gentle Wave motion on a single moving head (group 2) provides subtle movement and color wash, following the 60‑70% sync rule while keeping contrast low. No VFX or lasers are used, honoring the rule to reserve dramatic effects for drops or key moments."
+    },
+    {
+      "time": 89.3439941,
+      "duration": 1.58228385,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 56/79 falls in a mid‑energy verse/bridge with repeated vocal lines; a subtle laser fan keeps the stage active without overpowering the vocals. The high‑frequency content warrants a moving beam, while a static warm color and spectral intensity keeps the energy in check. This offers 60‑70% sync while preserving breathing room for the surrounding beats."
+    },
+    {
+      "time": 90.96533,
+      "duration": 1.58296335,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Verse 2 is a calm, vocal‑supporting section. A gentle wave motion on a single moving head (group 2) keeps the energy moderate while still giving rhythmic movement, matching the medium energy and high‑dominant bass on this beat."
+    },
+    {
+      "time": 92.82131,
+      "duration": 1.58739281,
+      "groupLights": [],
+      "reasoning": "Beat 58/79 sits in the mid‑section where energy dips to low and the dominant frequency shifts to mid‑range. Following the 60‑70% sync rule and avoiding VFX in calm moments, this beat functions as breathing room, supporting the vocal line without overwhelming it."
+    },
+    {
+      "time": 94.35732,
+      "duration": 1.59022593,
+      "groupLights": [],
+      "reasoning": "Beat 59 is in a low‑energy bridge section, mid‑band dominant, with no build‑up cue. Following the 60‑70% sync rule and avoiding over‑lighting calm moments, we leave this beat empty for breathing room."
+    },
+    {
+      "time": 95.91465,
+      "duration": 1.59326291,
+      "groupLights": [],
+      "reasoning": "At beat 60/79 the track is in a low‑energy verse/bridge; the mid‑band focus and low brightness indicate a calm moment. Following the 60‑70% sync rule and avoiding over‑lighting on low‑energy sections, we leave this beat as breathing room."
+    },
+    {
+      "time": 97.53599,
+      "duration": 1.59658813,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 61/79 falls in a verse section with medium energy; a subtle wave motion on a single light keeps the 60‑70% sync rate while respecting the calm mood. No VFX or laser beams are used to avoid overpowering the vocals."
+    },
+    {
+      "time": 99.24265,
+      "duration": 1.6020472,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 62/79 falls in a mid‑energy verse with high‑frequency vocals; a subtle wave motion on a single moving head supports the lyric without overwhelming the mix, following the 60‑70% sync rule and keeping the section breathing."
+    },
+    {
+      "time": 100.88533,
+      "duration": 1.60853171,
+      "groupLights": [],
+      "reasoning": "This beat occurs in a mid‑energy verse with low brightness, not a drop or build‑up. Following the 60–70% sync rule and the professional practice of leaving calm moments breathing room, we omit active effects here."
+    },
+    {
+      "time": 102.549316,
+      "duration": 1.61258173,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 5,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 64/79 falls in the final chorus where energy peaks and the lyric line supports a full, cinematic light show. 60‑70 % of beats should be active, so we add a VFX burst (key 0) and two laser groups (keys 4 and 5) with matching motion, color and intensity to amplify the dramatic drop.  This follows the rule that VFX only appear on climactic moments, while motion, color and intensity are present for moving‑head and multi‑beam groups."
+    },
+    {
+      "time": 104.127983,
+      "duration": 1.61503434,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 65/79 is in the final chorus with medium energy but high dominant frequency, so we use full motion and laser effects to drive the climax. VFX on group 0 marks the drop, while groups 4 and 2 provide synchronized lasers and a wave motion to support the vocals and bass hits."
+    },
+    {
+      "time": 106.005325,
+      "duration": 1.6215024,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 66/79 sits in the final chorus, a high‑energy drop with vocal emphasis on \"She hit the floor.\" 60‑70% sync rule allows full lighting: VFX for the climax, laser cone for visual impact, and a moving head wave to accent the bass hits. Color and intensity are added to support vocals without overpowering."
+    },
+    {
+      "time": 107.690659,
+      "duration": 1.62397838,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 67/79 falls in the final chorus (~85% of the track), high energy with vocal lyric. Professional practice calls for maximal visual impact at this climax, so we enable a simultaneous VFX burst, synchronized lasers, and rotating beam motion to sync with the bass and high‑frequency melodies."
+    },
+    {
+      "time": 109.312,
+      "duration": 1.62769234,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 68/79 sits in the final chorus, a high‑energy climax where the vocal hook repeats. Even though the energy reading is medium, the position warrants full visual impact, so we deploy synchronized lasers and moving head washes to support the lyric delivery without overusing VFX, keeping the mix dynamic yet breathable."
+    },
+    {
+      "time": 110.975983,
+      "duration": 1.63260734,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 2
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 69/79 sits in the final chorus, a climactic moment where a burst of energy and visual intensity is desired. To respect the 60‑70% sync rule while still delivering a powerful impact, we add a laser sweep (multi‑light group), a moving wave on a single light, and a VFX wave that syncs with the drop‑like rhythm. These choices keep the beat alive without overcrowding the mix."
+    },
+    {
+      "time": 112.639977,
+      "duration": 1.63701558,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 3,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "This beat sits in the final chorus where energy is high but not at the peak drop. To maintain the 60‑70% sync rule, we add a laser fan motion with dynamic color and intensity to support the vocal repetition without overwhelming the moment."
+    },
+    {
+      "time": 114.239975,
+      "duration": 1.63916087,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 6,
+          "MotionEffect": 1,
+          "ColorEffect": 3,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "At beat 71/79 the track is in its final chorus, high energy with a lyric hook. Following the 60‑70% sync rule and the climax, we activate full laser beams and a VFX burst for dramatic impact, while keeping motion, color, and intensity active for the multi‑light groups."
+    },
+    {
+      "time": 115.882652,
+      "duration": 1.64141953,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "The track is in the outro phase, so we keep effects minimal and gentle. A single‑light wave motion (Motion 3) supports the vocal line while maintaining a calm fade‑out, with a static warm color and dynamic intensity to add subtle movement without overpowering the music."
+    },
+    {
+      "time": 117.52533,
+      "duration": 1.6446352,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "This beat falls in the outro, medium energy and high band, so we provide a gentle wave motion on a single moving head to support the vocal without overwhelming the fading mood. Using a static warm color and ping‑pong intensity keeps the light subtle and in line with the gradual fade‑out."
+    },
+    {
+      "time": 119.167984,
+      "duration": 1.64886761,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 0,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "This beat falls in the outro where energy is medium but the track is winding down. To maintain a calm fade‑out while still supporting the vocals, a subtle single‑light wave motion with a soft static color is appropriate, keeping the mood gentle and avoiding strobe or heavy VFX."
+    },
+    {
+      "time": 120.810661,
+      "duration": 1.64799964,
+      "groupLights": [],
+      "reasoning": "Beat 75/79 falls in the outro section where the energy is steady but not climactic; the song is winding down and the rule is to keep most beats empty for breathing room. Following the 60‑70% sync guideline, this beat provides a calm moment with no dramatic effects, so it is left silent."
+    },
+    {
+      "time": 122.453308,
+      "duration": 1.64689338,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "This beat sits in the outro where energy is medium but still high‑band; we want a gentle, continuous motion to sustain momentum without overwhelming the closing vocals. A single moving head with a slow rotate and intensity ping‑pong provides subtle build‑down support while keeping the light on the downbeat for a calm fade."
+    },
+    {
+      "time": 124.032,
+      "duration": 1.64540768,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 77/79 falls in the final 3% of the track – an outro that should feel calm yet still accentuate the repeating vocal line. A single rotating wave keeps the light moving gently without the dramatic intensity of a drop, fitting the medium energy but high–band cue while maintaining the 60–70% sync rule."
+    },
+    {
+      "time": 125.717323,
+      "duration": 1.644165,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 78/79 sits in the final outro section; energy is medium but we aim to keep the light subtle and fading. A gentle wave motion on a single moving head with a warm static color and low‑intensity ping‑pong will support the vocals without overpowering the calm atmosphere, following the 60‑70% sync rule for breathing room."
+    },
+    {
+      "time": 127.381317,
+      "duration": 1.64120257,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ],
+      "reasoning": "Beat 79/79 is the final beat of the outro where the track is winding down; the energy is still medium but the overall context is calm. A single moving head with a gentle rotate keeps the stage alive without over‑stimulation, providing a subtle warm wash that supports the lingering vocals while respecting the 60‑70% sync rule."
+    }
+  ]
+}

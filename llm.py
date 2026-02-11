@@ -57,14 +57,17 @@ VfxEffectType: 0=None, 1=VFX_Simultaneous, 2=VFX_Wave
 - Bass hits → Wave, Rotate (strong motion).
 
 # OUTPUT FORMAT
-Return ONLY a valid JSON object.
-If this beat should have effects: {"effects": [{...}, ...]}
-If this beat should NOT have effects (breathing room): {"effects": []}
-An empty array [] is valid and expected for ~30-40% of beats.
+Return ONLY a valid JSON object with TWO fields:
+1. "reasoning": A short explanation (2-3 sentences) of WHY you chose these effects or why this beat should be empty. Reference the song position, audio cues, and professional rules.
+2. "effects": The array of groupLight objects, or [] for breathing room.
 
-Example: {"effects": [{"groupLightKey": 4, "MotionEffect": 1, "ColorEffect": 2, "IntensityEffect": 3, "VfxEffect": 0}]}
+Example with effects:
+{"reasoning": "At ~50% this is likely chorus/drop with high energy. Using LaserCone on multi-light group for peak impact, with vivid colors.", "effects": [{"groupLightKey": 4, "MotionEffect": 1, "ColorEffect": 2, "IntensityEffect": 3, "VfxEffect": 0}]}
 
-Return ONLY the JSON object, no markdown, no explanation."""
+Example empty (breathing room):
+{"reasoning": "Beat 2 of a verse section with low energy. Following the 60-70% sync rule, this beat provides breathing room.", "effects": []}
+
+Return ONLY the JSON object, no markdown."""
 
 
 def create_client():
@@ -217,8 +220,10 @@ def _call_llm_single(client, model, beat_idx, beats, audio_features, beat_lyrics
                 else:
                     continue
 
-            # Extract effects array
+            # Extract reasoning and effects
+            reasoning = ""
             if isinstance(parsed, dict):
+                reasoning = parsed.get("reasoning", "")
                 effects = parsed.get("effects", [])
                 if not isinstance(effects, list):
                     for v in parsed.values():
@@ -251,14 +256,14 @@ def _call_llm_single(client, model, beat_idx, beats, audio_features, beat_lyrics
                 error_feedback = "\n".join(all_errors[:5])
                 continue
 
-            return effects
+            return effects, reasoning
 
         except Exception:
             continue
 
     # Fallback: return empty effects if all retries fail
     print(f"    Beat {beat_idx}: failed after {max_retries} attempts, using empty []")
-    return []
+    return [], ""
 
 
 def predict_effects(beats, model=None, max_retries=3,
@@ -276,7 +281,7 @@ def predict_effects(beats, model=None, max_retries=3,
         window_size: Number of neighboring beats for context (each side)
 
     Returns:
-        List of groupLights arrays (one per beat)
+        tuple: (effects_list, reasonings_list) — one per beat
     """
     from concurrent.futures import ThreadPoolExecutor, as_completed
     from threading import Semaphore
@@ -291,26 +296,29 @@ def predict_effects(beats, model=None, max_retries=3,
 
     def process_beat(beat_idx):
         with semaphore:
-            result = _call_llm_single(
+            effects, reasoning = _call_llm_single(
                 client, model, beat_idx, beats, audio_features, beat_lyrics,
                 window_size=window_size, max_retries=max_retries,
             )
             completed[0] += 1
-            has_fx = "✓" if result else "·"
+            has_fx = "✓" if effects else "·"
             print(f"    [{completed[0]}/{total}] Beat {beat_idx} {has_fx}")
-            return beat_idx, result
+            return beat_idx, effects, reasoning
 
     # Process all beats concurrently
-    all_results = [None] * total
+    all_effects: list = [None] * total
+    all_reasonings: list = [None] * total
     with ThreadPoolExecutor(max_workers=max_concurrent) as executor:
         futures = [executor.submit(process_beat, i) for i in range(total)]
         for future in as_completed(futures):
-            beat_idx, result = future.result()
-            all_results[beat_idx] = result
+            beat_idx, effects, reasoning = future.result()
+            all_effects[beat_idx] = effects
+            all_reasonings[beat_idx] = reasoning
 
-    # Replace any None with empty list (safety)
-    all_results = [r if r is not None else [] for r in all_results]
+    # Replace any None with defaults (safety)
+    all_effects = [r if r is not None else [] for r in all_effects]
+    all_reasonings = [r if r is not None else "" for r in all_reasonings]
 
-    with_fx = sum(1 for r in all_results if r)
+    with_fx = sum(1 for r in all_effects if r)
     print(f"\n  Done! {with_fx}/{total} beats have effects ({with_fx/total*100:.1f}%)")
-    return all_results
+    return all_effects, all_reasonings

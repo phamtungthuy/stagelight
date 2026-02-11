@@ -147,7 +147,7 @@ def transcribe_lyrics(mp3_path):
         return []
 
     print(f"  Transcribing lyrics: {mp3_path}")
-    client = OpenAI(api_key=api_key)
+    client = OpenAI(api_key=api_key, base_url="https://api.openai.com/v1")
 
     with open(mp3_path, "rb") as f:
         response = client.audio.transcriptions.create(

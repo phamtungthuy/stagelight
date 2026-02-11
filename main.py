@@ -79,7 +79,7 @@ def process_song(song_name, model=None, skip_lyrics=False, max_concurrent=5, win
                 print(f"  {vocal_beats}/{len(beats)} beats have lyrics")
 
     # Predict effects
-    predicted_group_lights = predict_effects(
+    predicted_group_lights, reasonings = predict_effects(
         beats, model=model,
         audio_features=audio_features,
         beat_lyrics=beat_lyrics,
@@ -87,12 +87,22 @@ def process_song(song_name, model=None, skip_lyrics=False, max_concurrent=5, win
         window_size=window_size,
     )
 
-    # Merge predictions into beat data
+    # Merge predictions into beat data (clean — no reasoning)
     for i, beat in enumerate(beats):
         beat["groupLights"] = predicted_group_lights[i]
 
-    # Save
+    # Save clean effects file (for system)
     output_path = save_effects(song_name, data)
+
+    # Save reasoning file (duplicate + reasoning field, for partner review)
+    import copy
+    reasoning_data = copy.deepcopy(data)
+    for i, beat in enumerate(reasoning_data["beats"]):
+        beat["reasoning"] = reasonings[i]
+    reasoning_path = os.path.join(EFFECTS_DIR, f"TimeLine_{song_name}_reasoning.json")
+    with open(reasoning_path, "w", encoding="utf-8") as f:
+        json.dump(reasoning_data, f, indent=2, ensure_ascii=False)
+    print(f"  Saved reasoning: {reasoning_path}")
 
     # Validate
     errors, stats = validate_file(output_path)

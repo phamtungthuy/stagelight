@@ -1,22 +1,29 @@
 {
-  "audioClipName": "GiveItToMe",
+  "audioClipName": "WorthIt",
   "beats": [
     {
-      "time": 0.426644,
-      "duration": 0.5,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        }
-      ]
+      "time": 0.362653047,
+      "duration": 0.9009069,
+      "groupLights": []
     },
     {
-      "time": 1.68532884,
-      "duration": 0.5,
+      "time": 1.21598637,
+      "duration": 0.9013068,
+      "groupLights": []
+    },
+    {
+      "time": 2.026644,
+      "duration": 0.900552452,
+      "groupLights": []
+    },
+    {
+      "time": 2.83732438,
+      "duration": 0.898761868,
+      "groupLights": []
+    },
+    {
+      "time": 3.647982,
+      "duration": 0.865226746,
       "groupLights": [
         {
           "groupLightKey": 2,
@@ -28,18 +35,13 @@
       ]
     },
     {
-      "time": 2.90131521,
-      "duration": 0.5,
+      "time": 4.437324,
+      "duration": 0.8644087,
       "groupLights": []
     },
     {
-      "time": 4.245329,
-      "duration": 1.26994836,
-      "groupLights": []
-    },
-    {
-      "time": 5.482653,
-      "duration": 1.26822853,
+      "time": 5.461315,
+      "duration": 0.8639981,
       "groupLights": [
         {
           "groupLightKey": 2,
@@ -51,36 +53,13 @@
       ]
     },
     {
-      "time": 7.03997755,
-      "duration": 1.27588654,
+      "time": 6.399977,
+      "duration": 0.8640531,
       "groupLights": []
     },
     {
-      "time": 8.426644,
-      "duration": 1.28391981,
-      "groupLights": []
-    },
-    {
-      "time": 9.834648,
-      "duration": 1.341747,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 11.1999769,
-      "duration": 1.34216535,
-      "groupLights": []
-    },
-    {
-      "time": 12.7146482,
-      "duration": 1.345594,
+      "time": 7.27464867,
+      "duration": 0.864115834,
       "groupLights": [
         {
           "groupLightKey": 2,
@@ -92,26 +71,62 @@
       ]
     },
     {
-      "time": 13.97331,
-      "duration": 1.34882927,
+      "time": 8.14932,
+      "duration": 0.864285469,
       "groupLights": [
         {
           "groupLightKey": 2,
           "MotionEffect": 3,
           "ColorEffect": 1,
-          "IntensityEffect": 1,
+          "IntensityEffect": 2,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 15.3599777,
-      "duration": 1.3538754,
+      "time": 9.087982,
+      "duration": 0.8656504,
       "groupLights": []
     },
     {
-      "time": 16.8533115,
-      "duration": 1.36091721,
+      "time": 9.877324,
+      "duration": 0.8666355,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 10.8373241,
+      "duration": 0.8697598,
+      "groupLights": []
+    },
+    {
+      "time": 11.6266441,
+      "duration": 0.872411668,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 12.4373245,
+      "duration": 0.8746706,
+      "groupLights": []
+    },
+    {
+      "time": 13.247982,
+      "duration": 0.873211,
       "groupLights": [
         {
           "groupLightKey": 2,
@@ -123,8 +138,21 @@
       ]
     },
     {
-      "time": 18.13331,
-      "duration": 1.36763644,
+      "time": 14.037324,
+      "duration": 0.869478762,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 14.8479815,
+      "duration": 0.8400743,
       "groupLights": [
         {
           "groupLightKey": 2,
@@ -136,21 +164,44 @@
       ]
     },
     {
-      "time": 19.3919964,
-      "duration": 1.36833715,
+      "time": 15.6586618,
+      "duration": 0.83889097,
       "groupLights": [
         {
           "groupLightKey": 2,
-          "MotionEffect": 3,
+          "MotionEffect": 4,
           "ColorEffect": 1,
-          "IntensityEffect": 4,
+          "IntensityEffect": 2,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 20.6506577,
-      "duration": 1.36684191,
+      "time": 16.4479828,
+      "duration": 0.835974634,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 17.42932,
+      "duration": 0.836054444,
+      "groupLights": []
+    },
+    {
+      "time": 18.3039913,
+      "duration": 0.834828436,
+      "groupLights": []
+    },
+    {
+      "time": 19.1146488,
+      "duration": 0.834256053,
       "groupLights": [
         {
           "groupLightKey": 2,
@@ -162,121 +213,24 @@
       ]
     },
     {
-      "time": 21.84533,
-      "duration": 1.36211121,
+      "time": 19.92533,
+      "duration": 0.83389914,
       "groupLights": []
     },
     {
-      "time": 22.5279827,
-      "duration": 1.25918067,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 22.6986618,
-      "duration": 1.1092639,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 22.7413158,
-      "duration": 1.10630107,
+      "time": 20.7359867,
+      "duration": 0.8339079,
       "groupLights": []
     },
     {
-      "time": 22.7626534,
-      "duration": 1.05042434,
+      "time": 21.58932,
+      "duration": 0.834533155,
       "groupLights": []
     },
     {
-      "time": 23.44533,
-      "duration": 0.930443347,
-      "groupLights": []
-    },
-    {
-      "time": 24.08533,
-      "duration": 0.8429571,
+      "time": 22.5066433,
+      "duration": 0.837140262,
       "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 24.8106575,
-      "duration": 0.765037537,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 25.5146484,
-      "duration": 0.6874793,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 31.9786625,
-      "duration": 0.7199064,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 32.68265,
-      "duration": 0.720698357,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        },
         {
           "groupLightKey": 4,
           "MotionEffect": 2,
@@ -287,475 +241,8 @@
       ]
     },
     {
-      "time": 33.36533,
-      "duration": 0.7951518,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 34.04798,
-      "duration": 0.793208063,
-      "groupLights": []
-    },
-    {
-      "time": 34.73066,
-      "duration": 0.769594848,
-      "groupLights": [
-        {
-          "groupLightKey": 3,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 35.41331,
-      "duration": 0.769910336,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 36.1173248,
-      "duration": 0.7711621,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 36.7999763,
-      "duration": 0.7715263,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 37.50399,
-      "duration": 0.7718919,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 38.122654,
-      "duration": 0.68301475,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 38.89066,
-      "duration": 0.6839691,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 39.57331,
-      "duration": 0.685112953,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 40.2773247,
-      "duration": 0.686086059,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 40.9599762,
-      "duration": 0.6872446,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 41.66399,
-      "duration": 0.6885565,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 42.36798,
-      "duration": 0.689300358,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 43.05066,
-      "duration": 0.6902283,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 43.73331,
-      "duration": 0.690616131,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 44.39465,
-      "duration": 0.691579044,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 45.119976,
-      "duration": 0.6917823,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 45.8026543,
-      "duration": 0.6916122,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 46.48533,
-      "duration": 0.691365242,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 47.21066,
-      "duration": 0.6915805,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 6,
-          "ColorEffect": 3,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 47.89331,
-      "duration": 0.691469431,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 48.55465,
-      "duration": 0.691023946,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 49.2586632,
-      "duration": 0.6906448,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 49.8986626,
-      "duration": 0.6896676,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 50.6666451,
-      "duration": 0.6906004,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 51.34932,
-      "duration": 0.690740943,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 52.0319939,
-      "duration": 0.690825,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 52.69331,
-      "duration": 0.6907071,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 53.4399757,
-      "duration": 0.691224635,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 5,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 54.122654,
-      "duration": 0.691292644,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 54.8266449,
-      "duration": 0.692066431,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 55.50932,
-      "duration": 0.6924225,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 56.21331,
-      "duration": 0.693595946,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 56.87465,
-      "duration": 0.6932856,
-      "groupLights": []
-    },
-    {
-      "time": 57.5786629,
-      "duration": 0.6930054,
+      "time": 23.3386612,
+      "duration": 0.839709759,
       "groupLights": [
         {
           "groupLightKey": 2,
@@ -767,16 +254,48 @@
       ]
     },
     {
-      "time": 58.2826538,
-      "duration": 0.6934908,
+      "time": 24.1919956,
+      "duration": 0.842553,
       "groupLights": [
         {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
           "VfxEffect": 0
-        },
+        }
+      ]
+    },
+    {
+      "time": 25.1306572,
+      "duration": 0.8447366,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 25.9413147,
+      "duration": 0.845560551,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 26.77331,
+      "duration": 0.846147239,
+      "groupLights": [
         {
           "groupLightKey": 2,
           "MotionEffect": 3,
@@ -787,8 +306,117 @@
       ]
     },
     {
-      "time": 58.96533,
-      "duration": 0.69384706,
+      "time": 27.6266441,
+      "duration": 0.847562432,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 28.415987,
+      "duration": 0.8484562,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 29.26932,
+      "duration": 0.849249542,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 5,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 30.079977,
+      "duration": 0.847829461,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 31.1679821,
+      "duration": 0.850767851,
+      "groupLights": [
+        {
+          "groupLightKey": 3,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 31.9999771,
+      "duration": 0.853147745,
+      "groupLights": []
+    },
+    {
+      "time": 32.8106575,
+      "duration": 0.853093,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 33.621315,
+      "duration": 0.8529344,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 34.55998,
+      "duration": 0.8548623,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 35.37066,
+      "duration": 0.855518,
       "groupLights": [
         {
           "groupLightKey": 2,
@@ -796,11 +424,310 @@
           "ColorEffect": 1,
           "IntensityEffect": 1,
           "VfxEffect": 0
-        },
+        }
+      ]
+    },
+    {
+      "time": 36.202652,
+      "duration": 0.85644275,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 37.247982,
+      "duration": 0.8851861,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 38.0586624,
+      "duration": 0.88514334,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 38.86932,
+      "duration": 0.857910156,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 39.6799774,
+      "duration": 0.8572953,
+      "groupLights": [
         {
           "groupLightKey": 4,
           "MotionEffect": 2,
-          "ColorEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 40.53331,
+      "duration": 0.8571187,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 41.34399,
+      "duration": 0.8570991,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 42.1759872,
+      "duration": 0.855347335,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 42.9866447,
+      "duration": 0.85398,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 43.7759857,
+      "duration": 0.8524173,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 44.6079826,
+      "duration": 0.8183458,
+      "groupLights": []
+    },
+    {
+      "time": 45.65331,
+      "duration": 0.845581055,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 46.54932,
+      "duration": 0.8465191,
+      "groupLights": []
+    },
+    {
+      "time": 47.4239922,
+      "duration": 0.848415,
+      "groupLights": []
+    },
+    {
+      "time": 48.36265,
+      "duration": 0.851749063,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 49.17331,
+      "duration": 0.8545331,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 6,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 50.1546478,
+      "duration": 0.8871257,
+      "groupLights": [
+        {
+          "groupLightKey": 3,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 50.96533,
+      "duration": 0.886997342,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 0,
+          "ColorEffect": 1,
+          "IntensityEffect": 0,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 51.75465,
+      "duration": 0.886892438,
+      "groupLights": []
+    },
+    {
+      "time": 53.1626549,
+      "duration": 0.948622,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 53.9733124,
+      "duration": 0.9444538,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 54.9546471,
+      "duration": 0.9426633,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 55.7653275,
+      "duration": 0.9404122,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 56.6186638,
+      "duration": 0.9367022,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 57.9626541,
+      "duration": 0.9762641,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 58.85866,
+      "duration": 0.9746749,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
           "IntensityEffect": 2,
           "VfxEffect": 0
         }
@@ -808,66 +735,27 @@
     },
     {
       "time": 59.66932,
-      "duration": 0.6934041,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 60.5866432,
-      "duration": 0.7184372,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 61.3119965,
-      "duration": 0.718487263,
+      "duration": 0.973418951,
       "groupLights": [
         {
           "groupLightKey": 2,
           "MotionEffect": 3,
           "ColorEffect": 1,
-          "IntensityEffect": 4,
+          "IntensityEffect": 3,
           "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 61.9733124,
-      "duration": 0.718495369,
-      "groupLights": [
+        },
         {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
+          "groupLightKey": 5,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 62.6559868,
-      "duration": 0.718326867,
+      "time": 60.54399,
+      "duration": 0.973453045,
       "groupLights": [
         {
           "groupLightKey": 2,
@@ -879,138 +767,58 @@
       ]
     },
     {
-      "time": 63.3599777,
-      "duration": 0.7184557,
+      "time": 61.418663,
+      "duration": 0.9177246,
+      "groupLights": []
+    },
+    {
+      "time": 62.7626534,
+      "duration": 0.97649467,
       "groupLights": [
         {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 3,
+          "IntensityEffect": 2,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 64.27732,
-      "duration": 0.74433136,
+      "time": 63.5519943,
+      "duration": 0.9733668,
       "groupLights": [
         {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
           "VfxEffect": 0
         }
       ]
+    },
+    {
+      "time": 64.38399,
+      "duration": 0.9706105,
+      "groupLights": []
     },
     {
       "time": 65.19465,
-      "duration": 0.7669381,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
+      "duration": 0.9679846,
+      "groupLights": []
     },
     {
-      "time": 65.81331,
-      "duration": 0.7662392,
+      "time": 66.04798,
+      "duration": 0.8980306,
+      "groupLights": []
+    },
+    {
+      "time": 66.96533,
+      "duration": 0.898485,
       "groupLights": [
         {
           "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 66.49599,
-      "duration": 0.7650803,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 5,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 67.28533,
-      "duration": 0.7454936,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 3,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 5,
-          "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 67.96798,
-      "duration": 0.7447011,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 68.672,
-      "duration": 0.744803,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 5,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
+          "MotionEffect": 6,
           "ColorEffect": 1,
           "IntensityEffect": 1,
           "VfxEffect": 0
@@ -1018,19 +826,12 @@
       ]
     },
     {
-      "time": 69.312,
-      "duration": 0.7437474,
+      "time": 67.7759857,
+      "duration": 0.898867548,
       "groupLights": [
         {
           "groupLightKey": 4,
           "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
           "ColorEffect": 1,
           "IntensityEffect": 2,
           "VfxEffect": 0
@@ -1038,266 +839,212 @@
       ]
     },
     {
-      "time": 69.93066,
-      "duration": 0.7418435,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 70.74132,
-      "duration": 0.7174852,
+      "time": 68.62932,
+      "duration": 0.8988234,
       "groupLights": [
         {
           "groupLightKey": 4,
           "MotionEffect": 1,
           "ColorEffect": 2,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 71.4666443,
-      "duration": 0.6971986,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 3,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 72.06399,
-      "duration": 0.69686,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 72.78932,
-      "duration": 0.6972949,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 73.38664,
-      "duration": 0.6781684,
-      "groupLights": []
-    },
-    {
-      "time": 74.2613144,
-      "duration": 0.6996553,
-      "groupLights": []
-    },
-    {
-      "time": 74.92265,
-      "duration": 0.6986385,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
           "IntensityEffect": 1,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 75.62664,
-      "duration": 0.69919,
-      "groupLights": []
-    },
-    {
-      "time": 76.30932,
-      "duration": 0.700336,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 76.992,
-      "duration": 0.6996523,
-      "groupLights": []
-    },
-    {
-      "time": 77.6959839,
-      "duration": 0.6987207,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 78.37866,
-      "duration": 0.6989883,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 79.03998,
-      "duration": 0.698176742,
+      "time": 69.41866,
+      "duration": 0.8974331,
       "groupLights": [
         {
           "groupLightKey": 4,
           "MotionEffect": 2,
           "ColorEffect": 1,
-          "IntensityEffect": 1,
+          "IntensityEffect": 4,
           "VfxEffect": 0
         },
         {
           "groupLightKey": 5,
           "MotionEffect": 1,
-          "ColorEffect": 3,
+          "ColorEffect": 2,
           "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 70.22932,
+      "duration": 0.8307156,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 71.03998,
+      "duration": 0.8306769,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 71.8506546,
+      "duration": 0.8306644,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
           "VfxEffect": 0
         },
         {
           "groupLightKey": 2,
           "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 72.6613159,
+      "duration": 0.830262,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 73.47199,
+      "duration": 0.829290152,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 74.36798,
+      "duration": 0.828086257,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 75.22131,
+      "duration": 0.8277209,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 76.01066,
+      "duration": 0.826660931,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 77.18399,
+      "duration": 0.8600396,
+      "groupLights": [
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
           "ColorEffect": 2,
           "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 78.01598,
+      "duration": 0.8605708,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 78.80533,
+      "duration": 0.861057162,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
           "VfxEffect": 0
         }
       ]
     },
     {
       "time": 79.74399,
-      "duration": 0.6992262,
+      "duration": 0.8632013,
       "groupLights": [
         {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 3,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 4,
+          "groupLightKey": 5,
           "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 80.44798,
-      "duration": 0.697655439,
+      "time": 80.57599,
+      "duration": 0.865708351,
       "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 81.13066,
-      "duration": 0.6965865,
-      "groupLights": []
-    },
-    {
-      "time": 81.81331,
-      "duration": 0.6953226,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 82.432,
-      "duration": 0.6932172,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 5,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
         {
           "groupLightKey": 4,
           "MotionEffect": 1,
@@ -1309,52 +1056,78 @@
           "groupLightKey": 5,
           "MotionEffect": 2,
           "ColorEffect": 3,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
           "IntensityEffect": 2,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 83.1999741,
-      "duration": 0.6928031,
+      "time": 81.55733,
+      "duration": 0.8980306,
       "groupLights": [
         {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
           "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 83.90399,
-      "duration": 0.692050338,
+      "time": 82.41066,
+      "duration": 0.8973071,
       "groupLights": [
         {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 2
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
         },
         {
           "groupLightKey": 4,
           "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
           "VfxEffect": 0
-        },
+        }
+      ]
+    },
+    {
+      "time": 83.30664,
+      "duration": 0.897348464,
+      "groupLights": [
         {
           "groupLightKey": 2,
           "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 84.0959854,
+      "duration": 0.8974223,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
           "ColorEffect": 1,
           "IntensityEffect": 2,
           "VfxEffect": 0
@@ -1363,27 +1136,20 @@
           "groupLightKey": 5,
           "MotionEffect": 1,
           "ColorEffect": 1,
-          "IntensityEffect": 1,
+          "IntensityEffect": 2,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 84.58665,
-      "duration": 0.6917023,
+      "time": 84.94932,
+      "duration": 0.863945842,
       "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
         {
           "groupLightKey": 4,
           "MotionEffect": 1,
           "ColorEffect": 1,
-          "IntensityEffect": 1,
+          "IntensityEffect": 3,
           "VfxEffect": 0
         },
         {
@@ -1396,212 +1162,149 @@
       ]
     },
     {
-      "time": 85.24798,
-      "duration": 0.6914272,
+      "time": 85.78132,
+      "duration": 0.8638257,
       "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 85.97331,
-      "duration": 0.691568,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 5,
-          "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
         {
           "groupLightKey": 2,
           "MotionEffect": 3,
           "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 3,
-          "MotionEffect": 4,
-          "ColorEffect": 3,
-          "IntensityEffect": 2,
+          "IntensityEffect": 3,
           "VfxEffect": 0
         }
       ]
     },
     {
       "time": 86.65598,
-      "duration": 0.691302955,
+      "duration": 0.865048468,
       "groupLights": [
         {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 87.65866,
+      "duration": 0.8672061,
+      "groupLights": [
         {
           "groupLightKey": 4,
-          "MotionEffect": 1,
+          "MotionEffect": 2,
           "ColorEffect": 2,
-          "IntensityEffect": 4,
+          "IntensityEffect": 3,
           "VfxEffect": 0
         },
         {
           "groupLightKey": 2,
           "MotionEffect": 4,
           "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 5,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 87.31732,
-      "duration": 0.690756,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
           "IntensityEffect": 1,
           "VfxEffect": 0
         },
         {
-          "groupLightKey": 5,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 87.93599,
-      "duration": 0.6889489,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
+          "groupLightKey": 6,
           "MotionEffect": 1,
           "ColorEffect": 1,
-          "IntensityEffect": 1,
+          "IntensityEffect": 4,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 88.74664,
-      "duration": 0.690778136,
+      "time": 88.55465,
+      "duration": 0.8699545,
       "groupLights": [
         {
           "groupLightKey": 2,
-          "MotionEffect": 3,
+          "MotionEffect": 4,
           "ColorEffect": 1,
-          "IntensityEffect": 2,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
           "VfxEffect": 0
         }
       ]
     },
     {
       "time": 89.42932,
-      "duration": 0.690718234,
+      "duration": 0.870637059,
       "groupLights": [
         {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
           "groupLightKey": 4,
-          "MotionEffect": 1,
+          "MotionEffect": 2,
           "ColorEffect": 2,
-          "IntensityEffect": 1,
+          "IntensityEffect": 3,
           "VfxEffect": 0
         },
         {
           "groupLightKey": 2,
           "MotionEffect": 3,
           "ColorEffect": 1,
-          "IntensityEffect": 4,
+          "IntensityEffect": 1,
           "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 90.13331,
-      "duration": 0.691050053,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
         },
         {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
+          "groupLightKey": 5,
+          "MotionEffect": 1,
           "ColorEffect": 3,
           "IntensityEffect": 2,
           "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 90.34664,
+      "duration": 0.8722987,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 91.1573257,
+      "duration": 0.872356,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
         },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 92.01066,
+      "duration": 0.87345475,
+      "groupLights": [
         {
           "groupLightKey": 4,
           "MotionEffect": 2,
@@ -1612,21 +1315,113 @@
       ]
     },
     {
-      "time": 90.81599,
-      "duration": 0.6913142,
+      "time": 92.82131,
+      "duration": 0.8735807,
       "groupLights": [
         {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 3,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 93.6319962,
+      "duration": 0.87334764,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 94.46399,
+      "duration": 0.8722346,
+      "groupLights": [
         {
           "groupLightKey": 4,
           "MotionEffect": 1,
           "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
           "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 95.29599,
+      "duration": 0.868745148,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 96.34132,
+      "duration": 0.8680054,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 97.23733,
+      "duration": 0.867968142,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 98.04798,
+      "duration": 0.8659281,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
           "VfxEffect": 0
         },
         {
@@ -1639,8 +1434,75 @@
       ]
     },
     {
-      "time": 91.43465,
-      "duration": 0.6908668,
+      "time": 98.8586655,
+      "duration": 0.8645337,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 99.66932,
+      "duration": 0.8622093,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 100.522652,
+      "duration": 0.860495567,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 101.397324,
+      "duration": 0.860602,
       "groupLights": [
         {
           "groupLightKey": 0,
@@ -1653,28 +1515,14 @@
           "groupLightKey": 4,
           "MotionEffect": 1,
           "ColorEffect": 2,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 3,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
+          "IntensityEffect": 4,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 92.20265,
-      "duration": 0.690804243,
+      "time": 102.357323,
+      "duration": 0.862940848,
       "groupLights": [
         {
           "groupLightKey": 0,
@@ -1692,6 +1540,140 @@
         },
         {
           "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 103.231995,
+      "duration": 0.8651901,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 104.149323,
+      "duration": 0.86535114,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 105.045326,
+      "duration": 0.865615964,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 105.855988,
+      "duration": 0.8657661,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 106.730659,
+      "duration": 0.8665732,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 107.754646,
+      "duration": 0.896280944,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 2,
           "MotionEffect": 4,
           "ColorEffect": 1,
           "IntensityEffect": 1,
@@ -1700,8 +1682,8 @@
       ]
     },
     {
-      "time": 92.88533,
-      "duration": 0.690730453,
+      "time": 108.607979,
+      "duration": 0.8971188,
       "groupLights": [
         {
           "groupLightKey": 0,
@@ -1709,6 +1691,98 @@
           "ColorEffect": 0,
           "IntensityEffect": 0,
           "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 109.461319,
+      "duration": 0.8968461,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 5,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 110.76265,
+      "duration": 0.9326308,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 111.658661,
+      "duration": 0.933345735,
+      "groupLights": []
+    },
+    {
+      "time": 112.554649,
+      "duration": 0.9336651,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        }
+      ]
+    },
+    {
+      "time": 113.407982,
+      "duration": 0.9327316,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
         },
         {
           "groupLightKey": 4,
@@ -1720,147 +1794,6 @@
         {
           "groupLightKey": 5,
           "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 3,
-          "MotionEffect": 4,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 93.61066,
-      "duration": 0.6921521,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 94.2719955,
-      "duration": 0.6938928,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 5,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 94.93331,
-      "duration": 0.6930578,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 95.65866,
-      "duration": 0.6929948,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 96.25599,
-      "duration": 0.6912422,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 97.06664,
-      "duration": 0.691497445,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
           "ColorEffect": 2,
           "IntensityEffect": 2,
           "VfxEffect": 0
@@ -1868,69 +1801,15 @@
       ]
     },
     {
-      "time": 97.74932,
-      "duration": 0.692967057,
+      "time": 114.218658,
+      "duration": 0.931993,
       "groupLights": [
         {
           "groupLightKey": 0,
           "MotionEffect": 0,
           "ColorEffect": 0,
           "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 98.41066,
-      "duration": 0.6926488,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 99.072,
-      "duration": 0.692041159,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
+          "VfxEffect": 2
         },
         {
           "groupLightKey": 4,
@@ -1943,19 +1822,25 @@
           "groupLightKey": 5,
           "MotionEffect": 2,
           "ColorEffect": 2,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
           "IntensityEffect": 3,
           "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 115.157326,
+      "duration": 0.932697952,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
         },
         {
-          "groupLightKey": 3,
-          "MotionEffect": 4,
+          "groupLightKey": 4,
+          "MotionEffect": 2,
           "ColorEffect": 2,
           "IntensityEffect": 4,
           "VfxEffect": 0
@@ -1963,8 +1848,34 @@
       ]
     },
     {
-      "time": 99.8186646,
-      "duration": 0.6913319,
+      "time": 115.967979,
+      "duration": 0.9298607,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 116.79998,
+      "duration": 0.926395953,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 117.695984,
+      "duration": 0.9246454,
       "groupLights": [
         {
           "groupLightKey": 0,
@@ -1977,7 +1888,7 @@
           "groupLightKey": 2,
           "MotionEffect": 3,
           "ColorEffect": 1,
-          "IntensityEffect": 1,
+          "IntensityEffect": 4,
           "VfxEffect": 0
         },
         {
@@ -1990,13 +1901,38 @@
       ]
     },
     {
-      "time": 100.501312,
-      "duration": 0.691503048,
+      "time": 118.549316,
+      "duration": 0.8667399,
       "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 119.466644,
+      "duration": 0.866772532,
+      "groupLights": []
+    },
+    {
+      "time": 120.383987,
+      "duration": 0.866757452,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
         {
           "groupLightKey": 4,
           "MotionEffect": 1,
-          "ColorEffect": 2,
+          "ColorEffect": 1,
           "IntensityEffect": 3,
           "VfxEffect": 0
         },
@@ -2010,8 +1946,412 @@
       ]
     },
     {
-      "time": 101.20533,
-      "duration": 0.6924149,
+      "time": 121.173309,
+      "duration": 0.8661748,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 2
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 122.154648,
+      "duration": 0.8687091,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 122.965332,
+      "duration": 0.868535638,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 124.117325,
+      "duration": 0.9027371,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 125.013313,
+      "duration": 0.904046655,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 2,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 125.973312,
+      "duration": 0.906214952,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 126.869316,
+      "duration": 0.9080582,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 127.701317,
+      "duration": 0.908913553,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 128.661316,
+      "duration": 0.9104702,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 129.621323,
+      "duration": 0.9143784,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 130.559982,
+      "duration": 0.9169604,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 131.477325,
+      "duration": 0.920829535,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 132.266647,
+      "duration": 0.9185836,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 2,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 133.077332,
+      "duration": 0.9153456,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 133.887985,
+      "duration": 0.8788249,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 134.698669,
+      "duration": 0.8780006,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 5,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 135.530655,
+      "duration": 0.876755238,
       "groupLights": [
         {
           "groupLightKey": 0,
@@ -2051,20 +2391,40 @@
       ]
     },
     {
-      "time": 101.887985,
-      "duration": 0.692484,
+      "time": 136.426651,
+      "duration": 0.8748264,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 137.365326,
+      "duration": 0.87260747,
       "groupLights": [
         {
           "groupLightKey": 0,
           "MotionEffect": 0,
           "ColorEffect": 0,
           "IntensityEffect": 0,
-          "VfxEffect": 2
+          "VfxEffect": 1
         },
         {
           "groupLightKey": 4,
           "MotionEffect": 1,
-          "ColorEffect": 2,
+          "ColorEffect": 1,
           "IntensityEffect": 3,
           "VfxEffect": 0
         },
@@ -2078,176 +2438,34 @@
       ]
     },
     {
-      "time": 102.591995,
-      "duration": 0.6938319,
+      "time": 138.261322,
+      "duration": 0.8697338,
       "groupLights": [
         {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
           "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 5,
           "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 103.274651,
-      "duration": 0.6933092,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 103.978661,
-      "duration": 0.6932152,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
           "ColorEffect": 3,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 104.661316,
-      "duration": 0.6933515,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 105.343994,
-      "duration": 0.693792462,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 106.047981,
-      "duration": 0.6939217,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
           "IntensityEffect": 3,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 106.752,
-      "duration": 0.694024563,
+      "time": 139.221313,
+      "duration": 0.86842525,
       "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
         {
           "groupLightKey": 4,
           "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 5,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 3,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 107.434647,
-      "duration": 0.693647563,
+      "time": 140.159973,
+      "duration": 0.869737864,
       "groupLights": [
         {
           "groupLightKey": 0,
@@ -2257,38 +2475,38 @@
           "VfxEffect": 1
         },
         {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 5,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
-        {
           "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 3,
           "MotionEffect": 6,
-          "ColorEffect": 2,
+          "ColorEffect": 1,
           "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 3,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 2,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 108.117325,
-      "duration": 0.6933617,
+      "time": 141.055984,
+      "duration": 0.872208,
       "groupLights": [
         {
           "groupLightKey": 0,
@@ -2298,285 +2516,124 @@
           "VfxEffect": 1
         },
         {
-          "groupLightKey": 1,
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 141.866638,
+      "duration": 0.8745498,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
           "MotionEffect": 0,
           "ColorEffect": 0,
           "IntensityEffect": 0,
-          "VfxEffect": 2
+          "VfxEffect": 1
         },
         {
           "groupLightKey": 4,
           "MotionEffect": 1,
-          "ColorEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 142.677322,
+      "duration": 0.8763618,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
           "IntensityEffect": 3,
           "VfxEffect": 0
         },
         {
           "groupLightKey": 5,
           "MotionEffect": 2,
-          "ColorEffect": 3,
-          "IntensityEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
           "VfxEffect": 0
         },
         {
           "groupLightKey": 2,
           "MotionEffect": 3,
           "ColorEffect": 1,
-          "IntensityEffect": 3,
+          "IntensityEffect": 1,
           "VfxEffect": 0
         },
         {
           "groupLightKey": 3,
           "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 108.821312,
-      "duration": 0.693184137,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 109.43998,
-      "duration": 0.692007065,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 110.058662,
-      "duration": 0.6744673,
-      "groupLights": []
-    },
-    {
-      "time": 110.655983,
-      "duration": 0.673448443,
-      "groupLights": []
-    },
-    {
-      "time": 111.359978,
-      "duration": 0.6726517,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
           "ColorEffect": 2,
-          "IntensityEffect": 3,
+          "IntensityEffect": 2,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 111.957321,
-      "duration": 0.656105042,
+      "time": 143.487976,
+      "duration": 0.87751,
+      "groupLights": []
+    },
+    {
+      "time": 144.319977,
+      "duration": 0.8772102,
       "groupLights": [
         {
           "groupLightKey": 4,
           "MotionEffect": 1,
-          "ColorEffect": 3,
+          "ColorEffect": 1,
           "IntensityEffect": 1,
           "VfxEffect": 0
         },
         {
           "groupLightKey": 5,
           "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 112.746643,
-      "duration": 0.6574872,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
           "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 113.429321,
-      "duration": 0.6586402,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 114.133308,
-      "duration": 0.660342634,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 114.794647,
-      "duration": 0.661069,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 115.498665,
-      "duration": 0.6629887,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 116.202652,
-      "duration": 0.682679057,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 116.88533,
-      "duration": 0.6840641,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 117.567986,
-      "duration": 0.684796035,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 118.165329,
-      "duration": 0.685583353,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
           "IntensityEffect": 1,
           "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 118.975983,
-      "duration": 0.686572,
-      "groupLights": [
+        },
         {
           "groupLightKey": 2,
           "MotionEffect": 3,
           "ColorEffect": 1,
-          "IntensityEffect": 2,
+          "IntensityEffect": 3,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 119.658661,
-      "duration": 0.687405944,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 120.277321,
-      "duration": 0.6862864,
+      "time": 145.23732,
+      "duration": 0.8768534,
       "groupLights": [
         {
           "groupLightKey": 2,
@@ -2584,95 +2641,96 @@
           "ColorEffect": 1,
           "IntensityEffect": 1,
           "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 120.93866,
-      "duration": 0.6857227,
-      "groupLights": [
+        },
         {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 121.642654,
-      "duration": 0.6849232,
+      "time": 146.026642,
+      "duration": 0.875126,
+      "groupLights": []
+    },
+    {
+      "time": 146.837326,
+      "duration": 0.846978068,
+      "groupLights": []
+    },
+    {
+      "time": 147.967987,
+      "duration": 0.849502265,
+      "groupLights": []
+    },
+    {
+      "time": 148.778656,
+      "duration": 0.850240946,
       "groupLights": [
         {
           "groupLightKey": 2,
           "MotionEffect": 4,
           "ColorEffect": 1,
-          "IntensityEffect": 2,
+          "IntensityEffect": 1,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 122.325325,
-      "duration": 0.684291959,
+      "time": 149.610657,
+      "duration": 0.8512161,
       "groupLights": [
         {
           "groupLightKey": 2,
           "MotionEffect": 5,
           "ColorEffect": 1,
-          "IntensityEffect": 2,
+          "IntensityEffect": 1,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 123.050659,
-      "duration": 0.684393167,
+      "time": 150.42131,
+      "duration": 0.8519762,
       "groupLights": [
         {
           "groupLightKey": 4,
           "MotionEffect": 2,
           "ColorEffect": 1,
-          "IntensityEffect": 2,
+          "IntensityEffect": 1,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 123.712,
-      "duration": 0.6842354,
+      "time": 151.253311,
+      "duration": 0.8529334,
       "groupLights": []
     },
     {
-      "time": 124.309319,
-      "duration": 0.6839657,
+      "time": 152.149323,
+      "duration": 0.855089068,
       "groupLights": [
         {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 2,
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
           "IntensityEffect": 3,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 124.970657,
-      "duration": 0.6667362,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
+      "time": 153.045334,
+      "duration": 0.856713235,
+      "groupLights": []
     },
     {
-      "time": 125.653313,
-      "duration": 0.6667235,
+      "time": 153.877319,
+      "duration": 0.858514965,
       "groupLights": [
         {
           "groupLightKey": 2,
@@ -2684,8 +2742,34 @@
       ]
     },
     {
-      "time": 126.357323,
-      "duration": 0.6681213,
+      "time": 154.773315,
+      "duration": 0.861301661,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 155.605331,
+      "duration": 0.8594211,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 156.415985,
+      "duration": 0.857862234,
       "groupLights": [
         {
           "groupLightKey": 2,
@@ -2697,204 +2781,289 @@
       ]
     },
     {
-      "time": 127.082657,
-      "duration": 0.6702678,
-      "groupLights": []
-    },
-    {
-      "time": 127.978661,
-      "duration": 0.7057359,
-      "groupLights": []
-    },
-    {
-      "time": 129.023987,
-      "duration": 0.7439287,
-      "groupLights": []
-    },
-    {
-      "time": 129.813309,
-      "duration": 0.744966149,
-      "groupLights": []
-    },
-    {
-      "time": 130.474655,
-      "duration": 0.7461881,
+      "time": 157.247986,
+      "duration": 0.856516838,
       "groupLights": [
         {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
         },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 158.101318,
+      "duration": 0.856042743,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 158.912,
+      "duration": 0.8553184,
+      "groupLights": []
+    },
+    {
+      "time": 159.701309,
+      "duration": 0.8529483,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 160.554642,
+      "duration": 0.850169361,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 3,
+          "MotionEffect": 3,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 161.450653,
+      "duration": 0.848772466,
+      "groupLights": []
+    },
+    {
+      "time": 162.346649,
+      "duration": 0.8479618,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 163.242661,
+      "duration": 0.8479811,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 164.117325,
+      "duration": 0.849292,
+      "groupLights": []
+    },
+    {
+      "time": 164.927979,
+      "duration": 0.849876463,
+      "groupLights": []
+    },
+    {
+      "time": 165.802658,
+      "duration": 0.8506522,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 0,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 166.890656,
+      "duration": 0.8870307,
+      "groupLights": []
+    },
+    {
+      "time": 167.722656,
+      "duration": 0.887396038,
+      "groupLights": []
+    },
+    {
+      "time": 168.618668,
+      "duration": 0.8884048,
+      "groupLights": []
+    },
+    {
+      "time": 169.429321,
+      "duration": 0.8879778,
+      "groupLights": []
+    },
+    {
+      "time": 170.41066,
+      "duration": 0.88898474,
+      "groupLights": [
         {
           "groupLightKey": 2,
           "MotionEffect": 4,
-          "ColorEffect": 2,
+          "ColorEffect": 1,
           "IntensityEffect": 1,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 5,
-          "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 131.199982,
-      "duration": 0.748890162,
+      "time": 171.199982,
+      "duration": 0.888419032,
+      "groupLights": []
+    },
+    {
+      "time": 172.074646,
+      "duration": 0.887518,
       "groupLights": [
         {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
+          "groupLightKey": 3,
           "MotionEffect": 3,
           "ColorEffect": 1,
-          "IntensityEffect": 1,
+          "IntensityEffect": 2,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 131.903992,
-      "duration": 0.770874,
+      "time": 172.88533,
+      "duration": 0.886776149,
       "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
         {
           "groupLightKey": 2,
           "MotionEffect": 3,
           "ColorEffect": 1,
           "IntensityEffect": 2,
           "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 132.586639,
-      "duration": 0.7705671,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
+      "time": 173.759979,
+      "duration": 0.8866148,
+      "groupLights": []
     },
     {
-      "time": 133.333313,
-      "duration": 0.771112442,
+      "time": 174.613312,
+      "duration": 0.857503235,
+      "groupLights": []
+    },
+    {
+      "time": 175.552,
+      "duration": 0.859443367,
       "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
         {
           "groupLightKey": 2,
           "MotionEffect": 3,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
           "ColorEffect": 1,
-          "IntensityEffect": 1,
+          "IntensityEffect": 3,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 133.973312,
-      "duration": 0.770367146,
+      "time": 176.447983,
+      "duration": 0.8607742,
+      "groupLights": []
+    },
+    {
+      "time": 177.279984,
+      "duration": 0.8626189,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 178.090652,
+      "duration": 0.8611685,
+      "groupLights": []
+    },
+    {
+      "time": 178.922653,
+      "duration": 0.8602428,
+      "groupLights": []
+    },
+    {
+      "time": 179.71199,
+      "duration": 0.8585456,
       "groupLights": [
         {
           "groupLightKey": 0,
           "MotionEffect": 0,
           "ColorEffect": 0,
           "IntensityEffect": 0,
-          "VfxEffect": 2
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 5,
-          "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
+          "VfxEffect": 1
         },
         {
           "groupLightKey": 2,
           "MotionEffect": 3,
           "ColorEffect": 3,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 6,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
           "IntensityEffect": 4,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 134.655991,
-      "duration": 0.7410668,
+      "time": 180.607986,
+      "duration": 0.85841763,
       "groupLights": [
         {
           "groupLightKey": 0,
@@ -2902,227 +3071,572 @@
           "ColorEffect": 0,
           "IntensityEffect": 0,
           "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 181.418655,
+      "duration": 0.857239842,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 182.378662,
+      "duration": 0.858104467,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        }
+      ]
+    },
+    {
+      "time": 183.189316,
+      "duration": 0.856763542,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 183.999985,
+      "duration": 0.854142249,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 184.853317,
+      "duration": 0.8520376,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        }
+      ]
+    },
+    {
+      "time": 185.749313,
+      "duration": 0.8518848,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 186.645325,
+      "duration": 0.8531442,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 187.477325,
+      "duration": 0.854653537,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 188.330658,
+      "duration": 0.855192959,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 189.205322,
+      "duration": 0.856744051,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 6,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 190.207977,
+      "duration": 0.858620644,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 191.146637,
+      "duration": 0.8622925,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 2,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 191.978668,
+      "duration": 0.8657228,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 192.767975,
+      "duration": 0.86787504,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 193.599976,
+      "duration": 0.8684028,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 194.453308,
+      "duration": 0.8678441,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 195.370651,
+      "duration": 0.868914,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 196.266647,
+      "duration": 0.87084,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 197.11998,
+      "duration": 0.8717335,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 2,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 197.973312,
+      "duration": 0.870123446,
+      "groupLights": [
+        {
+          "groupLightKey": 0,
+          "MotionEffect": 0,
+          "ColorEffect": 0,
+          "IntensityEffect": 0,
+          "VfxEffect": 1
+        },
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        },
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 3,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
         },
         {
           "groupLightKey": 2,
           "MotionEffect": 5,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 5,
-          "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 135.317322,
-      "duration": 0.700875163,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
           "ColorEffect": 2,
           "IntensityEffect": 4,
           "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 135.935989,
-      "duration": 0.680267334,
+      "time": 198.784,
+      "duration": 0.8665756,
       "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 136.53331,
-      "duration": 0.6791922,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 137.194641,
-      "duration": 0.6772183,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 137.834656,
-      "duration": 0.659717143,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
         {
           "groupLightKey": 4,
           "MotionEffect": 1,
           "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 5,
-          "ColorEffect": 2,
           "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 138.581314,
-      "duration": 0.660682857,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 139.285324,
-      "duration": 0.6610455,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 139.967987,
-      "duration": 0.6618184,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        }
-      ]
-    },
-    {
-      "time": 140.672,
-      "duration": 0.6627287,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
           "VfxEffect": 0
         },
         {
@@ -3135,8 +3649,8 @@
       ]
     },
     {
-      "time": 141.354645,
-      "duration": 0.663795054,
+      "time": 199.59465,
+      "duration": 0.8637178,
       "groupLights": [
         {
           "groupLightKey": 0,
@@ -3144,146 +3658,26 @@
           "ColorEffect": 0,
           "IntensityEffect": 0,
           "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
         },
         {
           "groupLightKey": 4,
           "MotionEffect": 1,
           "ColorEffect": 2,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 142.058655,
-      "duration": 0.6791958,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
           "IntensityEffect": 1,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 5,
-          "MotionEffect": 2,
-          "ColorEffect": 2,
-          "IntensityEffect": 3,
           "VfxEffect": 0
         },
         {
           "groupLightKey": 2,
           "MotionEffect": 4,
           "ColorEffect": 1,
-          "IntensityEffect": 2,
+          "IntensityEffect": 3,
           "VfxEffect": 0
         }
       ]
     },
     {
-      "time": 142.719971,
-      "duration": 0.680217,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 2,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 143.338669,
-      "duration": 0.6804803,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 144.192,
-      "duration": 0.704783142,
-      "groupLights": [
-        {
-          "groupLightKey": 0,
-          "MotionEffect": 0,
-          "ColorEffect": 0,
-          "IntensityEffect": 0,
-          "VfxEffect": 1
-        },
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 5,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        },
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 144.810654,
-      "duration": 0.7027379,
-      "groupLights": [
-        {
-          "groupLightKey": 3,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 145.514648,
-      "duration": 0.70097506,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 146.197327,
-      "duration": 0.699561954,
+      "time": 200.426651,
+      "duration": 0.8615759,
       "groupLights": [
         {
           "groupLightKey": 2,
@@ -3295,164 +3689,8 @@
       ]
     },
     {
-      "time": 147.00798,
-      "duration": 0.7004784,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 147.818665,
-      "duration": 0.7186347,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 148.501312,
-      "duration": 0.718296349,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 1,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 149.205322,
-      "duration": 0.7187309,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 4,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 149.887985,
-      "duration": 0.7200966,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 150.698669,
-      "duration": 0.720475852,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 151.509323,
-      "duration": 0.745288432,
-      "groupLights": [
-        {
-          "groupLightKey": 3,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 152.213318,
-      "duration": 0.7453008,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 2,
-          "ColorEffect": 1,
-          "IntensityEffect": 3,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 152.895981,
-      "duration": 0.745246053,
-      "groupLights": [
-        {
-          "groupLightKey": 3,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 153.578659,
-      "duration": 0.7427923,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 154.282654,
-      "duration": 0.718249857,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 2,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 154.965332,
-      "duration": 0.7182486,
-      "groupLights": [
-        {
-          "groupLightKey": 4,
-          "MotionEffect": 1,
-          "ColorEffect": 1,
-          "IntensityEffect": 0,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 155.669327,
-      "duration": 0.7180993,
+      "time": 201.301315,
+      "duration": 0.8606254,
       "groupLights": [
         {
           "groupLightKey": 4,
@@ -3464,12 +3702,12 @@
       ]
     },
     {
-      "time": 156.35199,
-      "duration": 0.7180453,
+      "time": 202.154648,
+      "duration": 0.8602027,
       "groupLights": [
         {
           "groupLightKey": 2,
-          "MotionEffect": 3,
+          "MotionEffect": 4,
           "ColorEffect": 1,
           "IntensityEffect": 2,
           "VfxEffect": 0
@@ -3477,39 +3715,13 @@
       ]
     },
     {
-      "time": 157.269318,
-      "duration": 0.7200818,
-      "groupLights": [
-        {
-          "groupLightKey": 2,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 158.058655,
-      "duration": 0.721152365,
-      "groupLights": [
-        {
-          "groupLightKey": 3,
-          "MotionEffect": 3,
-          "ColorEffect": 1,
-          "IntensityEffect": 4,
-          "VfxEffect": 0
-        }
-      ]
-    },
-    {
-      "time": 158.655991,
-      "duration": 0.7203166,
+      "time": 203.029312,
+      "duration": 0.8587878,
       "groupLights": []
     },
     {
-      "time": 159.29599,
-      "duration": 0.7186548,
+      "time": 203.925323,
+      "duration": 0.85768795,
       "groupLights": [
         {
           "groupLightKey": 2,
@@ -3519,6 +3731,247 @@
           "VfxEffect": 0
         }
       ]
+    },
+    {
+      "time": 204.736,
+      "duration": 0.856018543,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 205.546646,
+      "duration": 0.853875637,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 206.335983,
+      "duration": 0.851843536,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 1,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 207.167984,
+      "duration": 0.849988341,
+      "groupLights": []
+    },
+    {
+      "time": 207.978668,
+      "duration": 0.848442733,
+      "groupLights": [
+        {
+          "groupLightKey": 4,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 0,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 208.789322,
+      "duration": 0.8460533,
+      "groupLights": [
+        {
+          "groupLightKey": 5,
+          "MotionEffect": 2,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 209.663986,
+      "duration": 0.843997359,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 210.495987,
+      "duration": 0.842030346,
+      "groupLights": []
+    },
+    {
+      "time": 211.306641,
+      "duration": 0.8385975,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 212.138657,
+      "duration": 0.835997,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 212.927979,
+      "duration": 0.833820164,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 213.738663,
+      "duration": 0.831949532,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 214.549316,
+      "duration": 0.8300704,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 215.424,
+      "duration": 0.829596,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 4,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 216.341309,
+      "duration": 0.8307696,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 217.130661,
+      "duration": 0.8307941,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 4,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 218.026642,
+      "duration": 0.831390262,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 1,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 219.178665,
+      "duration": 0.8318856,
+      "groupLights": [
+        {
+          "groupLightKey": 3,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 3,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 219.64798,
+      "duration": 0.832063854,
+      "groupLights": []
+    },
+    {
+      "time": 220.501312,
+      "duration": 0.832842231,
+      "groupLights": [
+        {
+          "groupLightKey": 2,
+          "MotionEffect": 3,
+          "ColorEffect": 1,
+          "IntensityEffect": 2,
+          "VfxEffect": 0
+        }
+      ]
+    },
+    {
+      "time": 221.482651,
+      "duration": 0.857557535,
+      "groupLights": []
     }
   ]
 }
